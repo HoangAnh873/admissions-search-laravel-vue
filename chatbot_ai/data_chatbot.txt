@@ -1,0 +1,477 @@
+# Ngành: Khoa học máy tính
+Mã ngành: 7480101
+Khoa: Khoa Công nghệ Thông tin & Truyền thông
+Mô tả: Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25, Chỉ tiêu: 48, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 27, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.4, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 28.5, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.4, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28.25, Chỉ tiêu: 24, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Mạng máy tính và truyền thông dữ liệu
+Mã ngành: 7480102
+Khoa: Khoa Công nghệ Thông tin & Truyền thông
+Mô tả: Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24, Chỉ tiêu: 42, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 25.25, Chỉ tiêu: 32, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.25, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 27.5, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 22.85, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 27.25, Chỉ tiêu: 24, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Kỹ thuật phần mềm
+Mã ngành: 7480103
+Khoa: Khoa Công nghệ Thông tin & Truyền thông
+Mô tả: Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.25, Chỉ tiêu: 72, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 27.5, Chỉ tiêu: 54, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26.3, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 28.75, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.8, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28.5, Chỉ tiêu: 24, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Hệ thống thông tin
+Mã ngành: 7480104
+Khoa: Khoa Công nghệ Thông tin & Truyền thông
+Mô tả: Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.25, Chỉ tiêu: 42, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 25.75, Chỉ tiêu: 32, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.75, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 27.5, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 22.65, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 27.5, Chỉ tiêu: 24, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Trí tuệ nhân tạo
+Mã ngành: 7480107
+Khoa: Khoa Công nghệ Thông tin & Truyền thông
+Mô tả: Chỉ tiêu: 60; Tổ hợp: A00, A01, TH1, TH2
+Tiêu chí xét tuyển:
+Điểm chuẩn:
+Trạng thái ngành:
+
+# Ngành: Công nghệ thông tin
+Mã ngành: 7480201
+Khoa: Khoa Công nghệ Thông tin & Truyền thông
+Mô tả: Chỉ tiêu: 100; Tổ hợp: A00, A01, TH1, TH2
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, Điểm tối thiểu: 17, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, Điểm tối thiểu: 17, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, Điểm tối thiểu: 17, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.75, Chỉ tiêu: 84, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 28.5, Chỉ tiêu: 63, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26.5, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 29.25, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.16, Chỉ tiêu: 51, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 29, Chỉ tiêu: 24, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: An toàn thông tin
+Mã ngành: 7480202
+Khoa: Khoa Công nghệ Thông tin & Truyền thông
+Mô tả: Chỉ tiêu: 60; Tổ hợp: A00, A01, TH1, TH2
+Tiêu chí xét tuyển:
+- Năm: 2022, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, Điểm tối thiểu: 16, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.75, Chỉ tiêu: 23, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 28, Chỉ tiêu: 16, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 23.6, Chỉ tiêu: 44, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28.25, Chỉ tiêu: 16, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Nông học
+Mã ngành: 7620109
+Khoa: Khoa Nông nghiệp
+Mô tả: Chỉ tiêu: 100; Tổ hợp: B00, B08, D07, A00
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2022, Tổ hợp: B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2023, Tổ hợp: B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 19.5, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 21.75, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15.25, Chỉ tiêu: 59, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 24, Chỉ tiêu: 40, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15, Chỉ tiêu: 60, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 18, Chỉ tiêu: 40, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Bảo vệ thực vật
+Mã ngành: 7620112
+Khoa: Khoa Nông nghiệp
+Mô tả: Chỉ tiêu: 180; Tổ hợp: B00, B08, D07, A00
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: B00, B08, D07, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2022, Tổ hợp: B00, B08, D07, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2023, Tổ hợp: B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 21.75, Chỉ tiêu: 84, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 23, Chỉ tiêu: 63, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 16, Chỉ tiêu: 95, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 25.5, Chỉ tiêu: 64, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 18.55, Chỉ tiêu: 96, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 21.25, Chỉ tiêu: 64, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Khoa học cây trồng
+Mã ngành: 7620110
+Khoa: Khoa Nông nghiệp
+Mô tả: Chỉ tiêu: 140; Tổ hợp: A02, B00, B08, D07
+Tiêu chí xét tuyển:
+- Năm: 2022, Tổ hợp: A02, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2023, Tổ hợp: A02, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 19.25, Chỉ tiêu: 72, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 19.5, Chỉ tiêu: 54, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15, Chỉ tiêu: 83, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 22.25, Chỉ tiêu: 56, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15, Chỉ tiêu: 84, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 20, Chỉ tiêu: 56, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Chăn nuôi
+Mã ngành: 7620105
+Khoa: Khoa Nông nghiệp
+Mô tả: Chỉ tiêu: 120; Tổ hợp: A00, A02, B00, B08
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A02, B00, B08, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A02, B00, B08, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A02, B00, B08, Điểm tối thiểu: 15, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 21, Chỉ tiêu: 60, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 20, Chỉ tiêu: 45, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15.75, Chỉ tiêu: 83, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 23.75, Chỉ tiêu: 56, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15, Chỉ tiêu: 84, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 18, Chỉ tiêu: 56, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Công nghệ rau hoa quả và cảnh quan
+Mã ngành: 7620113
+Khoa: Khoa Nông nghiệp
+Mô tả: Chỉ tiêu: 80; Tổ hợp: A00, B00, B08, D07
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 19.5, Chỉ tiêu: 18, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15.25, Chỉ tiêu: 47, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 19.5, Chỉ tiêu: 32, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15, Chỉ tiêu: 48, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 21, Chỉ tiêu: 32, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Nuôi trồng thủy sản
+Mã ngành: 7620301
+Khoa: Khoa Thủy sản
+Mô tả: Chỉ tiêu: 280; Tổ hợp: A00, B00, B08, D07
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 22.25, Chỉ tiêu: 120, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 22.5, Chỉ tiêu: 89, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 16, Chỉ tiêu: 131, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 25, Chỉ tiêu: 88, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 16.75, Chỉ tiêu: 172, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 21, Chỉ tiêu: 88, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Bệnh học thủy sản
+Mã ngành: 7620302
+Khoa: Khoa Thủy sản
+Mô tả: Chỉ tiêu: 100; Tổ hợp: A00, B00, B08, D07
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 20.25, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 19.5, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15.5, Chỉ tiêu: 59, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 22.75, Chỉ tiêu: 40, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15, Chỉ tiêu: 60, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 18, Chỉ tiêu: 40, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Quản lý thủy sản
+Mã ngành: 7620305
+Khoa: Khoa Thủy sản
+Mô tả: Chỉ tiêu: 100; Tổ hợp: A00, B00, B08, D07
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, B00, B08, D07, Điểm tối thiểu: 15, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 21.5, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 19.5, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 16, Chỉ tiêu: 59, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 24, Chỉ tiêu: 40, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 15, Chỉ tiêu: 60, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 18, Chỉ tiêu: 40, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Kỹ thuật môi trường
+Mã ngành: 7520320
+Khoa: Khoa Thủy sản
+Mô tả: Chỉ tiêu: 90; Tổ hợp: A00, A01, B00, D07
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, B00, D07, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, B00, D07, Điểm tối thiểu: 15, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, B00, D07, Điểm tối thiểu: 15, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 19, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 19.5, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 20.75, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 22, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 20.2, Chỉ tiêu: 41, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 23.25, Chỉ tiêu: 24, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Quản lý tài nguyên và môi trường
+Mã ngành: 7850101
+Khoa: Khoa Thủy sản
+Mô tả: Chỉ tiêu: 120; Tổ hợp: A00, A01, B00, D07
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, B00, D07, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, B00, D07, Điểm tối thiểu: 16, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, B00, D07, Điểm tối thiểu: 16, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 23, Chỉ tiêu: 48, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 23, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 17.5, Chỉ tiêu: 71, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 25.75, Chỉ tiêu: 48, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 19.8, Chỉ tiêu: 72, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 24, Chỉ tiêu: 48, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Quản trị kinh doanh
+Mã ngành: 7340101
+Khoa: Khoa Kinh tế
+Mô tả: Chỉ tiêu: 140; Tổ hợp: A00, A01, C02, D01
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.75, Chỉ tiêu: 48, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 28.75, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.75, Chỉ tiêu: 47, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 29, Chỉ tiêu: 32, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.35, Chỉ tiêu: 48, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28, Chỉ tiêu: 32, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Marketing
+Mã ngành: 7340115
+Khoa: Khoa Kinh tế
+Mô tả: Chỉ tiêu: 100; Tổ hợp: A00, A01, C02, D01
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26.25, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 29, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.25, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 29.25, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.35, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28.5, Chỉ tiêu: 24, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Kinh doanh quốc tế
+Mã ngành: 7340120
+Khoa: Khoa Kinh tế
+Mô tả: Chỉ tiêu: 120; Tổ hợp: A00, A01, C02, D01
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26.5, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 29, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.5, Chỉ tiêu: 47, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 29.25, Chỉ tiêu: 32, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.1, Chỉ tiêu: 48, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28.5, Chỉ tiêu: 32, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Kinh tế
+Mã ngành: 7310101
+Khoa: Khoa Kinh tế
+Mô tả: Chỉ tiêu: 80; Tổ hợp: A00, A01, C02, D01
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 17, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 17, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 17, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 29.5, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 28.25, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.4, Chỉ tiêu: 47, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 28.25, Chỉ tiêu: 32, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.26, Chỉ tiêu: 48, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 27.75, Chỉ tiêu: 32, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Tài chính - Ngân hàng
+Mã ngành: 7340201
+Khoa: Khoa Kinh tế
+Mô tả: Chỉ tiêu: 100; Tổ hợp: A00, A01, C02, D01
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.75, Chỉ tiêu: 30, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 28.75, Chỉ tiêu: 23, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 29.25, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28.25, Chỉ tiêu: 24, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Kế toán
+Mã ngành: 7340301
+Khoa: Khoa Kinh tế
+Mô tả: Chỉ tiêu: 100; Tổ hợp: A00, A01, C02, D01
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, C02, D01, Điểm tối thiểu: 18, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.5, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 28.5, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 28.75, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.76, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28, Chỉ tiêu: 24, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Giáo dục Tiểu học
+Mã ngành: 7140202
+Khoa: Khoa Sư phạm
+Mô tả: Chỉ tiêu: 100; Tổ hợp: A00, C01, D01, D03
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, C01, D01, D03, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, C01, D01, D03, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, C01, D01, D03, Điểm tối thiểu: 19, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 22, Chỉ tiêu: 54, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 27.75, Chỉ tiêu: 41, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 23.9, Chỉ tiêu: 44, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 28.5, Chỉ tiêu: 34, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 24.41, Chỉ tiêu: 58, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28.2, Chỉ tiêu: 38, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Sư phạm Toán học
+Mã ngành: 7140209
+Khoa: Khoa Sư phạm
+Mô tả: Chỉ tiêu: 80; Tổ hợp: A00, A01, B08, D07
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, D08, D07, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, B08, D07, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, B08, D07, Điểm tối thiểu: 19, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.5, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 29.25, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26, Chỉ tiêu: 17, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 29.85, Chỉ tiêu: 13, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26.18, Chỉ tiêu: 18, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 29.25, Chỉ tiêu: 12, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Sư phạm Tin học
+Mã ngành: 7140210
+Khoa: Khoa Sư phạm
+Mô tả: Chỉ tiêu: 70; Tổ hợp: A00, A01, D01, D07
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: A00, A01, D01, D07, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2022, Tổ hợp: A00, A01, B01, D07, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2023, Tổ hợp: A00, A01, D01, D07, Điểm tối thiểu: 19, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 23, Chỉ tiêu: 42, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 24, Chỉ tiêu: 32, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 22.5, Chỉ tiêu: 33, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 27.5, Chỉ tiêu: 24, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 23.25, Chỉ tiêu: 40, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 27.25, Chỉ tiêu: 26, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Sư phạm Ngữ văn
+Mã ngành: 7140217
+Khoa: Khoa Sư phạm
+Mô tả: Chỉ tiêu: 80; Tổ hợp: C00, D14, D15, D01
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: C00, D14, D15, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2022, Tổ hợp: C00, D14, D15, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2023, Tổ hợp: C00, D14, D15, Điểm tối thiểu: 19, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26, Chỉ tiêu: 35, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 27.75, Chỉ tiêu: 27, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26.5, Chỉ tiêu: 38, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 28.3, Chỉ tiêu: 28, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26.63, Chỉ tiêu: 28, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 27.8, Chỉ tiêu: 18, Ghi chú: 
+Trạng thái ngành:
+
+# Ngành: Sư phạm Tiếng Anh
+Mã ngành: 7140231
+Khoa: Khoa Sư phạm
+Mô tả: Chỉ tiêu: 100; Tổ hợp: D01, D14, D15, D66
+Tiêu chí xét tuyển:
+- Năm: 2021, Tổ hợp: D01, D14, D15, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2022, Tổ hợp: D01, D14, D15, Điểm tối thiểu: 19, Ghi chú: 
+- Năm: 2023, Tổ hợp: D01, D14, D15, Điểm tối thiểu: 19, Ghi chú: 
+Điểm chuẩn:
+- Năm: 2021, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26.5, Chỉ tiêu: 57, Ghi chú: 
+- Năm: 2021, Phương thức: Xét học bạ THPT, Điểm: 28, Chỉ tiêu: 43, Ghi chú: 
+- Năm: 2022, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 25.75, Chỉ tiêu: 43, Ghi chú: 
+- Năm: 2022, Phương thức: Xét học bạ THPT, Điểm: 28.25, Chỉ tiêu: 36, Ghi chú: 
+- Năm: 2023, Phương thức: Xét điểm thi tốt nghiệp THPT, Điểm: 26.1, Chỉ tiêu: 45, Ghi chú: 
+- Năm: 2023, Phương thức: Xét học bạ THPT, Điểm: 28, Chỉ tiêu: 30, Ghi chú: 
+Trạng thái ngành:
+
+# Danh sách phương thức xét tuyển
+- Xét điểm thi tốt nghiệp THPT: Áp dụng 2022–2025
+- Xét học bạ THPT: Áp dụng 2022–2025
+- Tuyển thẳng, ưu tiên xét tuyển: Theo quy định của Bộ GD&ĐT, áp dụng 2022–2025
+- Xét học bạ phân ngành sư phạm: Chỉ áp dụng cho các ngành sư phạm, từ 2022–2023
+- Chương trình tiên tiến và chất lượng cao: Phỏng vấn kết hợp học lực, từ 2022–2025
+- Xét thẳng bổ sung kiến thức: Áp dụng từ 2022–2025, dành cho các nhóm ngành đặc thù
+- Xét điểm thi V-SAT: Áp dụng từ 2024–2025
+
+# Danh sách giai đoạn tuyển sinh
+- Nhận hồ sơ (Thứ tự: 1): 
+- Xét tuyển đợt 1 (Thứ tự: 2): 
+- Xét tuyển đợt 2 (Thứ tự: 3): 
+- Công bố kết quả (Thứ tự: 4): 
+

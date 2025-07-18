@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+html {
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    /* height: 100%; */
+    /* background: #f0f1f7; */
+    font-family: 'Quicksand';
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+/* Hiện chữ đỏ báo lỗi nhập dữ liệu */
+.error-message {
+  color: red;
+  margin-bottom: 10px;
+}
+
+/* Cấu trúc container của bảng */
+.table-container {
+  margin: 24px;
+  padding: 12px;
+  background-color: #fefefe;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Cấu trúc phần header */
+.header {
+  display: flex; /* Sử dụng Flexbox để căn chỉnh các phần tử bên trong */
+  justify-content: space-between; /* Đặt khoảng cách đều giữa các phần tử con */
+  align-items: center; /* Căn giữa các phần tử theo chiều dọc */
+  margin-top: 0; /* Đảm bảo không có khoảng cách trên */
+  margin-bottom: 10px; /* Khoảng cách dưới header */
+  padding: 0; /* Padding trên và dưới để cân chỉnh lại vị trí các phần tử */
+}
+
+.header h2 {
+  font-size: 24px; /* Kích thước chữ tiêu đề */
+  font-weight: 600; /* Độ đậm của chữ */
+  color: #333; /* Màu chữ */
+}
+
+/* Nút cài đặt trong header */
+.settings-btn {
+  background: none; /* Không có màu nền */
+  border: none; /* Không có viền */
+  cursor: pointer; /* Đổi con trỏ khi di chuột qua */
+}
+
+/* Icon trong nút cài đặt */
+.settings-btn i {
+  font-size: 24px; /* Kích thước icon */
+  color: #555; /* Màu của icon */
+  transition: transform 0.3s ease; /* Hiệu ứng chuyển động khi hover */
+}
+
+/* Khi hover vào nút cài đặt, icon sẽ xoay */
+.settings-btn:hover i {
+  transform: rotate(90deg); /* Xoay 90 độ khi hover */
+}
+
+/* Dropdown menu cài đặt */
+.settings-dropdown {
+  position: relative; /* Để đặt dropdown-menu ở vị trí tương đối */
+}
+
+/* Menu dropdown */
+.dropdown-menu {
+  position: absolute; /* Đặt menu ở vị trí tuyệt đối */
+  right: 0; /* Canh menu sang bên phải */
+  top: 36px; /* Đặt khoảng cách từ phần tử cha */
+  background-color: white; /* Màu nền của menu */
+  border: 1px solid #e0e0e0; /* Đường viền màu xám nhạt */
+  border-radius: 8px; /* Bo tròn góc của menu */
+  min-width: 200px; /* Đặt chiều rộng tối thiểu cho menu */
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1); /* Thêm bóng đổ cho menu */
+  z-index: 1000; /* Đặt độ ưu tiên cho menu */
+  padding: 8px 0; /* Padding cho các phần tử trong menu */
+}
+
+/* Các mục trong menu dropdown */
+.dropdown-menu li {
+  padding: 10px 16px; /* Padding cho các mục */
+  font-size: 14px; /* Kích thước chữ */
+  color: #333; /* Màu chữ */
+  cursor: pointer; /* Đổi con trỏ khi hover */
+  transition: background-color 0.2s; /* Hiệu ứng chuyển màu nền khi hover */
+}
+
+/* Khi hover vào các mục trong menu */
+.dropdown-menu li:hover {
+  background-color: #f0f0f0; /* Đổi màu nền khi hover */
+  color: #007bff; /* Đổi màu chữ khi hover */
+}
+
+/* Hiệu ứng cho sự kiện vào/ra của dropdown menu */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s; /* Hiệu ứng chuyển độ mờ */
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0; /* Độ mờ ban đầu */
+}
+
+
+/* Cấu trúc các phần điều khiển */
+.controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.left-controls label {
+  font-size: 14px;
+  color: #444;
+}
+
+.left-controls select,
+.right-controls select,
+.right-controls input {
+  padding: 8px 12px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  background-color: white;
+  height: 35px; /* 👈 Đặt chiều cao cố định */
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+.right-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.right-controls .btn {
+  padding: 10px 14px;
+  font-size: 14px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border-radius: 6px;
+  height: 35px;
+}
+
+.right-controls .btn i {
+  font-size: 18px;
+}
+
+.search-box input,
+.right-controls .btn {
+  height: 35px; /* Đảm bảo chiều cao của input và button đồng nhất */
+}
+
+.search-box {
+  display: flex;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  max-width: 320px;
+  background-color: #fff;
+}
+
+.search-box input {
+  flex: 1;
+  padding: 10px 14px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  border-radius: 0;
+}
+
+/* Kiểu dáng cho bảng */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.table thead {
+  background-color: #f5f5f5;
+}
+
+.table th,
+.table td {
+  padding: 14px 16px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+  font-size: 14px;
+  color: #333;
+}
+
+.table td {
+  background-color: #fff;
+}
+
+.table input[type="checkbox"] {
+  transform: scale(1.2);
+}
+
+.table td button {
+  padding: 6px 10px;
+  margin: 0 4px;
+  font-size: 14px;
+  border-radius: 6px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.table td button i {
+  font-size: 16px;
+}
+
+/* Cấu trúc cho các button */
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  transition: background-color 0.2s;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  transition: background-color 0.2s;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+}
+
+.search-box {
+  display: flex;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  max-width: 320px;
+  background-color: #fff;
+}
+
+.search-box input {
+  flex: 1;
+  padding: 10px 14px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  border-radius: 0;
+}
+
+.search-box button {
+  padding: 0 16px;
+  background-color: #007bff;
+  border: none;
+  border-left: 1px solid #ccc;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s ease;
+  border-radius: 0; /* <-- QUAN TRỌNG */
+}
+
+.search-box button:hover {
+  background-color: #0056b3;
+}
+
+.search-box i {
+  font-size: 18px;
+}

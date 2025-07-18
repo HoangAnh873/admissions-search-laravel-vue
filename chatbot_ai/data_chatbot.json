@@ -1,0 +1,1950 @@
+{
+    "nganhs": [
+        {
+            "nganh": "Khoa học máy tính",
+            "ma_nganh": "7480101",
+            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25,
+                    "chi_tieu": 48,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.4,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.5,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.4,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.25,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Mạng máy tính và truyền thông dữ liệu",
+            "ma_nganh": "7480102",
+            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24,
+                    "chi_tieu": 42,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 25.25,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.25,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.5,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 22.85,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.25,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Kỹ thuật phần mềm",
+            "ma_nganh": "7480103",
+            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.25,
+                    "chi_tieu": 72,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.5,
+                    "chi_tieu": 54,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.3,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.75,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.8,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.5,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Hệ thống thông tin",
+            "ma_nganh": "7480104",
+            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.25,
+                    "chi_tieu": 42,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 25.75,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.75,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.5,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 22.65,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.5,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Trí tuệ nhân tạo",
+            "ma_nganh": "7480107",
+            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "mo_ta": "Chỉ tiêu: 60; Tổ hợp: A00, A01, TH1, TH2",
+            "tieu_chi_xet_tuyen": [],
+            "diem_chuan": [],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Công nghệ thông tin",
+            "ma_nganh": "7480201",
+            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, A01, TH1, TH2",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 17,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 17,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 17,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.75,
+                    "chi_tieu": 84,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.5,
+                    "chi_tieu": 63,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.5,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29.25,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.16,
+                    "chi_tieu": 51,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "An toàn thông tin",
+            "ma_nganh": "7480202",
+            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "mo_ta": "Chỉ tiêu: 60; Tổ hợp: A00, A01, TH1, TH2",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.75,
+                    "chi_tieu": 23,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28,
+                    "chi_tieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 23.6,
+                    "chi_tieu": 44,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.25,
+                    "chi_tieu": 16,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Nông học",
+            "ma_nganh": "7620109",
+            "khoa": "Khoa Nông nghiệp",
+            "mo_ta": "Chỉ tiêu: 100; Tổ hợp: B00, B08, D07, A00",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 19.5,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 21.75,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15.25,
+                    "chi_tieu": 59,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 24,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 18,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Bảo vệ thực vật",
+            "ma_nganh": "7620112",
+            "khoa": "Khoa Nông nghiệp",
+            "mo_ta": "Chỉ tiêu: 180; Tổ hợp: B00, B08, D07, A00",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "B00, B08, D07",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "B00, B08, D07",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 21.75,
+                    "chi_tieu": 84,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 23,
+                    "chi_tieu": 63,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 16,
+                    "chi_tieu": 95,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 25.5,
+                    "chi_tieu": 64,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 18.55,
+                    "chi_tieu": 96,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 21.25,
+                    "chi_tieu": 64,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Khoa học cây trồng",
+            "ma_nganh": "7620110",
+            "khoa": "Khoa Nông nghiệp",
+            "mo_ta": "Chỉ tiêu: 140; Tổ hợp: A02, B00, B08, D07",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2022,
+                    "to_hop": "A02, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A02, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 19.25,
+                    "chi_tieu": 72,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 19.5,
+                    "chi_tieu": 54,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 83,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 22.25,
+                    "chi_tieu": 56,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 84,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 20,
+                    "chi_tieu": 56,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Chăn nuôi",
+            "ma_nganh": "7620105",
+            "khoa": "Khoa Nông nghiệp",
+            "mo_ta": "Chỉ tiêu: 120; Tổ hợp: A00, A02, B00, B08",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A02, B00, B08",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A02, B00, B08",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A02, B00, B08",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 21,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 20,
+                    "chi_tieu": 45,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15.75,
+                    "chi_tieu": 83,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 23.75,
+                    "chi_tieu": 56,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 84,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 18,
+                    "chi_tieu": 56,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Công nghệ rau hoa quả và cảnh quan",
+            "ma_nganh": "7620113",
+            "khoa": "Khoa Nông nghiệp",
+            "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, B00, B08, D07",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 19.5,
+                    "chi_tieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15.25,
+                    "chi_tieu": 47,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 19.5,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 48,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 21,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Nuôi trồng thủy sản",
+            "ma_nganh": "7620301",
+            "khoa": "Khoa Thủy sản",
+            "mo_ta": "Chỉ tiêu: 280; Tổ hợp: A00, B00, B08, D07",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 22.25,
+                    "chi_tieu": 120,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 22.5,
+                    "chi_tieu": 89,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 16,
+                    "chi_tieu": 131,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 25,
+                    "chi_tieu": 88,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 16.75,
+                    "chi_tieu": 172,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 21,
+                    "chi_tieu": 88,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Bệnh học thủy sản",
+            "ma_nganh": "7620302",
+            "khoa": "Khoa Thủy sản",
+            "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, B00, B08, D07",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 20.25,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 19.5,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15.5,
+                    "chi_tieu": 59,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 22.75,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 18,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Quản lý thủy sản",
+            "ma_nganh": "7620305",
+            "khoa": "Khoa Thủy sản",
+            "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, B00, B08, D07",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 21.5,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 19.5,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 16,
+                    "chi_tieu": 59,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 24,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 18,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Kỹ thuật môi trường",
+            "ma_nganh": "7520320",
+            "khoa": "Khoa Thủy sản",
+            "mo_ta": "Chỉ tiêu: 90; Tổ hợp: A00, A01, B00, D07",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, B00, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, B00, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, B00, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 19,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 19.5,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 20.75,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 22,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 20.2,
+                    "chi_tieu": 41,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 23.25,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Quản lý tài nguyên và môi trường",
+            "ma_nganh": "7850101",
+            "khoa": "Khoa Thủy sản",
+            "mo_ta": "Chỉ tiêu: 120; Tổ hợp: A00, A01, B00, D07",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, B00, D07",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, B00, D07",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, B00, D07",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 23,
+                    "chi_tieu": 48,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 23,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 17.5,
+                    "chi_tieu": 71,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 25.75,
+                    "chi_tieu": 48,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 19.8,
+                    "chi_tieu": 72,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 24,
+                    "chi_tieu": 48,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Quản trị kinh doanh",
+            "ma_nganh": "7340101",
+            "khoa": "Khoa Kinh tế",
+            "mo_ta": "Chỉ tiêu: 140; Tổ hợp: A00, A01, C02, D01",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.75,
+                    "chi_tieu": 48,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.75,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.75,
+                    "chi_tieu": 47,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.35,
+                    "chi_tieu": 48,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Marketing",
+            "ma_nganh": "7340115",
+            "khoa": "Khoa Kinh tế",
+            "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, A01, C02, D01",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.25,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.25,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29.25,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.35,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.5,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Kinh doanh quốc tế",
+            "ma_nganh": "7340120",
+            "khoa": "Khoa Kinh tế",
+            "mo_ta": "Chỉ tiêu: 120; Tổ hợp: A00, A01, C02, D01",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.5,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.5,
+                    "chi_tieu": 47,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29.25,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.1,
+                    "chi_tieu": 48,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.5,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Kinh tế",
+            "ma_nganh": "7310101",
+            "khoa": "Khoa Kinh tế",
+            "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, C02, D01",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 17,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 17,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 17,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 29.5,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.25,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.4,
+                    "chi_tieu": 47,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.25,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.26,
+                    "chi_tieu": 48,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.75,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Tài chính - Ngân hàng",
+            "ma_nganh": "7340201",
+            "khoa": "Khoa Kinh tế",
+            "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, A01, C02, D01",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.75,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.75,
+                    "chi_tieu": 23,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29.25,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.25,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Kế toán",
+            "ma_nganh": "7340301",
+            "khoa": "Khoa Kinh tế",
+            "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, A01, C02, D01",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.5,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.5,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.75,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.76,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Giáo dục Tiểu học",
+            "ma_nganh": "7140202",
+            "khoa": "Khoa Sư phạm",
+            "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, C01, D01, D03",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, C01, D01, D03",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, C01, D01, D03",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, C01, D01, D03",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 22,
+                    "chi_tieu": 54,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.75,
+                    "chi_tieu": 41,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 23.9,
+                    "chi_tieu": 44,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.5,
+                    "chi_tieu": 34,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.41,
+                    "chi_tieu": 58,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.2,
+                    "chi_tieu": 38,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Sư phạm Toán học",
+            "ma_nganh": "7140209",
+            "khoa": "Khoa Sư phạm",
+            "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, B08, D07",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, D08, D07",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, B08, D07",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, B08, D07",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.5,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29.25,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26,
+                    "chi_tieu": 17,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29.85,
+                    "chi_tieu": 13,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.18,
+                    "chi_tieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29.25,
+                    "chi_tieu": 12,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Sư phạm Tin học",
+            "ma_nganh": "7140210",
+            "khoa": "Khoa Sư phạm",
+            "mo_ta": "Chỉ tiêu: 70; Tổ hợp: A00, A01, D01, D07",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "A00, A01, D01, D07",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, B01, D07",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, D01, D07",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 23,
+                    "chi_tieu": 42,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 24,
+                    "chi_tieu": 32,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 22.5,
+                    "chi_tieu": 33,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.5,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 23.25,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.25,
+                    "chi_tieu": 26,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Sư phạm Ngữ văn",
+            "ma_nganh": "7140217",
+            "khoa": "Khoa Sư phạm",
+            "mo_ta": "Chỉ tiêu: 80; Tổ hợp: C00, D14, D15, D01",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "C00, D14, D15",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "C00, D14, D15",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "C00, D14, D15",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26,
+                    "chi_tieu": 35,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.75,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.5,
+                    "chi_tieu": 38,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.3,
+                    "chi_tieu": 28,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.63,
+                    "chi_tieu": 28,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.8,
+                    "chi_tieu": 18,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Sư phạm Tiếng Anh",
+            "ma_nganh": "7140231",
+            "khoa": "Khoa Sư phạm",
+            "mo_ta": "Chỉ tiêu: 100; Tổ hợp: D01, D14, D15, D66",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2021,
+                    "to_hop": "D01, D14, D15",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "to_hop": "D01, D14, D15",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "D01, D14, D15",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.5,
+                    "chi_tieu": 57,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2021,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28,
+                    "chi_tieu": 43,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.75,
+                    "chi_tieu": 43,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.25,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.1,
+                    "chi_tieu": 45,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        }
+    ],
+    "phuong_thuc_xet_tuyen": [
+        {
+            "ten": "Xét điểm thi tốt nghiệp THPT",
+            "ghi_chu": "Áp dụng 2022–2025"
+        },
+        {
+            "ten": "Xét học bạ THPT",
+            "ghi_chu": "Áp dụng 2022–2025"
+        },
+        {
+            "ten": "Tuyển thẳng, ưu tiên xét tuyển",
+            "ghi_chu": "Theo quy định của Bộ GD&ĐT, áp dụng 2022–2025"
+        },
+        {
+            "ten": "Xét học bạ phân ngành sư phạm",
+            "ghi_chu": "Chỉ áp dụng cho các ngành sư phạm, từ 2022–2023"
+        },
+        {
+            "ten": "Chương trình tiên tiến và chất lượng cao",
+            "ghi_chu": "Phỏng vấn kết hợp học lực, từ 2022–2025"
+        },
+        {
+            "ten": "Xét thẳng bổ sung kiến thức",
+            "ghi_chu": "Áp dụng từ 2022–2025, dành cho các nhóm ngành đặc thù"
+        },
+        {
+            "ten": "Xét điểm thi V-SAT",
+            "ghi_chu": "Áp dụng từ 2024–2025"
+        }
+    ],
+    "giai_doan_tuyen_sinh": [
+        {
+            "ten": "Nhận hồ sơ",
+            "thu_tu": 1,
+            "ghi_chu": ""
+        },
+        {
+            "ten": "Xét tuyển đợt 1",
+            "thu_tu": 2,
+            "ghi_chu": ""
+        },
+        {
+            "ten": "Xét tuyển đợt 2",
+            "thu_tu": 3,
+            "ghi_chu": ""
+        },
+        {
+            "ten": "Công bố kết quả",
+            "thu_tu": 4,
+            "ghi_chu": ""
+        }
+    ]
+}

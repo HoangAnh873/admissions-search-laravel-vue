@@ -1,0 +1,589 @@
+.admission-page {
+  padding-left: 260px;
+}
+
+.dashboard-header {
+  background-color: #f8fafc;
+  margin-bottom: 24px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.dashboard-title {
+  font-size: 1.75rem;
+  color: #1e293b;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.dashboard-content {
+  padding: 0 24px 24px;
+}
+
+.uk-container {
+  padding: 0 24px;
+}
+
+.uk-card {
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  background: white;
+}
+
+.uk-card-header {
+  padding: 20px;
+  border-bottom: 1px solid #e2e8f0;
+  background: white;
+}
+
+.uk-button-primary {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 0.875rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.2s ease;
+  line-height: 1.2;
+}
+
+.uk-button-primary:hover {
+  background-color: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+}
+
+.uk-button-primary [uk-icon] {
+  width: 14px;
+  height: 14px;
+}
+
+.uk-button-danger {
+  background-color: #ef4444;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 0.875rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.2s ease;
+  line-height: 1.2;
+}
+
+.uk-button-danger:hover {
+  background-color: #dc2626;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(239, 68, 68, 0.2);
+}
+
+.uk-button-group {
+  gap: 6px;
+}
+
+.uk-button-small {
+  padding: 0 10px;
+  line-height: 26px;
+  border-radius: 4px;
+}
+
+.uk-button-small [uk-icon] {
+  width: 14px;
+  height: 14px;
+}
+
+.uk-alert-primary {
+  background-color: #f1f5f9;
+  color: #475569;
+  border-radius: 4px;
+  padding: 12px 16px;
+}
+
+/* Badge styles */
+.uk-badge {
+  font-weight: 600;
+  font-size: 0.85rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  text-transform: none;
+  letter-spacing: 0.5px;
+}
+
+.uk-badge-success {
+  background-color: #32d296;
+  color: #fff;
+}
+
+.uk-badge-danger {
+  background-color: #f0506e;
+  color: #fff;
+}
+
+/* Phần bộ lọc */
+.uk-select.uk-form-small {
+  height: 32px;
+  font-size: 13px;
+  min-width: 150px;
+}
+
+.uk-button-default {
+  height: 32px;
+  width: 32px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+}
+
+.uk-button-default:hover {
+  background: #f8fafc;
+}
+
+.uk-card-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1e293b;
+  margin: 0;
+}
+
+.uk-text-muted {
+  font-size: 0.875rem;
+  color: #64748b;
+  margin: 0;
+}
+
+/* Responsive */
+@media (max-width: 960px) {
+  .admission-page {
+    padding-left: 0;
+  }
+  
+  .dashboard-header {
+    padding: 16px;
+  }
+  
+  .dashboard-content {
+    padding: 16px;
+  }
+
+  .uk-table thead th,
+  .uk-table tbody td {
+    padding: 12px;
+  }
+}
+
+.uk-checkbox {
+  width: 18px;
+  height: 18px;
+  border: 2px solid #cbd5e1;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+}
+
+.uk-checkbox:checked {
+  background-color: #3b82f6;
+  border-color: #3b82f6;
+}
+
+.uk-checkbox:checked::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(45deg);
+  width: 4px;
+  height: 8px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+}
+
+.uk-checkbox:hover:not(:checked) {
+  border-color: #3b82f6;
+}
+
+/* Điều chỉnh padding cho cột checkbox */
+.uk-table th:first-child,
+.uk-table td:first-child {
+  padding-left: 16px;
+  padding-right: 8px;
+  width: 40px;
+  text-align: center;
+}
+
+/* Điều chỉnh khoảng cách giữa các nút trong filter-actions */
+.filter-actions {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.bulk-delete-button {
+  background-color: #ef4444;
+  color: white;
+  border: none;
+  padding: 0 12px;
+  height: 32px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+
+.bulk-delete-button:hover {
+  background-color: #dc2626;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(239, 68, 68, 0.2);
+}
+
+.bulk-delete-button [uk-icon] {
+  width: 14px;
+  height: 14px;
+}
+
+.add-button {
+  min-width: 120px;
+  height: 32px;
+  padding: 0 16px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-radius: 4px;
+  background: #3b82f6;
+  color: white;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+
+.add-button:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+}
+
+.add-button [uk-icon] {
+  width: 14px;
+  height: 14px;
+}
+
+@media (max-width: 1200px) {
+  .filter-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .filter-actions {
+    grid-column: 1 / -1;
+    justify-content: flex-end;
+  }
+}
+
+@media (max-width: 640px) {
+  .filter-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .filter-actions {
+    grid-column: 1;
+    flex-wrap: wrap;
+  }
+
+  .bulk-delete-button,
+  .add-button {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
+.bulk-actions {
+  padding: 12px 16px;
+  background: #f8fafc;
+  border-bottom: 1px solid #e2e8f0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.checkbox-column {
+  width: 40px !important;
+  min-width: 40px !important;
+  max-width: 40px !important;
+  padding: 0 8px !important;
+  text-align: center !important;
+}
+
+.uk-table {
+  margin: 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+}
+
+.uk-table thead th {
+  font-weight: 600;
+  color: #1e293b;
+  font-size: 0.9rem;
+  padding: 14px 16px;
+  border-bottom: 1px solid #e2e8f0;
+  border-right: 1px solid #e2e8f0;
+  white-space: nowrap;
+  background: white;
+}
+
+.uk-table thead th:last-child {
+  border-right: none;
+}
+
+.uk-table tbody td {
+  padding: 14px 16px;
+  color: #334155;
+  border-bottom: 1px solid #e2e8f0;
+  border-right: 1px solid #e2e8f0;
+  vertical-align: middle;
+}
+
+.uk-table tbody td:last-child {
+  border-right: none;
+}
+
+.uk-table tbody tr:hover {
+  background-color: #f8fafc;
+}
+
+.uk-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.uk-card-body {
+  padding: 0;
+}
+
+.uk-overflow-auto {
+  border-radius: 0 0 8px 8px;
+}
+
+/* Điều chỉnh màu nền cho các cột số liệu */
+.uk-table tbody td:nth-child(5),
+.uk-table tbody td:nth-child(6) {
+  font-weight: 500;
+  color: #0f172a;
+}
+
+/* Điều chỉnh màu nền cho cột năm */
+.uk-table tbody td:nth-child(3) {
+  font-weight: 500;
+  color: #0f172a;
+}
+
+/* Điều chỉnh màu nền cho cột phương thức */
+.uk-table tbody td:nth-child(4) {
+  color: #334155;
+}
+
+/* Điều chỉnh màu nền cho cột ghi chú */
+.uk-table tbody td:nth-child(7) {
+  color: #64748b;
+  font-size: 0.9rem;
+}
+
+/* Điều chỉnh màu nền cho cột hành động */
+.uk-table tbody td:nth-child(8) {
+  color: #334155;
+}
+
+.pagination-container {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background: white;
+  border-top: 1px solid #e2e8f0;
+  box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.pagination-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.page-size-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.page-size-label {
+  color: #64748b;
+  font-size: 0.875rem;
+  white-space: nowrap;
+}
+
+.page-size-selector .uk-select {
+  width: auto;
+  min-width: 100px;
+  height: 32px;
+  padding: 0 8px;
+  font-size: 0.875rem;
+  border-color: #e2e8f0;
+  border-radius: 4px;
+  background-color: white;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.page-size-selector .uk-select:hover {
+  border-color: #cbd5e1;
+}
+
+.page-size-selector .uk-select:focus {
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.1);
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+
+.header-left {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.selected-count {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.count-badge {
+  background: #3b82f6;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  min-width: 24px;
+  text-align: center;
+}
+
+.bulk-delete-button {
+  background-color: #ef4444;
+  color: white;
+  border: none;
+  padding: 0 16px;
+  height: 32px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+  min-width: 140px;
+}
+
+.bulk-delete-button:hover {
+  background-color: #dc2626;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(239, 68, 68, 0.2);
+}
+
+.bulk-delete-button [uk-icon] {
+  width: 14px;
+  height: 14px;
+}
+
+.add-button {
+  min-width: 120px;
+  height: 32px;
+  padding: 0 16px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-radius: 4px;
+  background: #3b82f6;
+  color: white;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+
+.add-button:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+}
+
+.add-button [uk-icon] {
+  width: 14px;
+  height: 14px;
+}
+
+@media (max-width: 640px) {
+  .header-content {
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+  }
+
+  .header-right {
+    width: 100%;
+  }
+
+  .header-actions {
+    width: 100%;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .selected-count {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .bulk-delete-button,
+  .add-button {
+    width: 100%;
+  }
+} 
