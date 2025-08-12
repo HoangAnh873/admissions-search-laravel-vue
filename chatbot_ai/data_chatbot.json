@@ -3,7 +3,7 @@
         {
             "nganh": "Khoa học máy tính",
             "ma_nganh": "7480101",
-            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "khoa": "Trường Công nghệ Thông tin & Truyền thông",
             "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2",
             "tieu_chi_xet_tuyen": [
                 {
@@ -20,6 +20,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01",
                     "diem_toi_thieu": 16,
                     "ghi_chu": ""
@@ -67,14 +73,36 @@
                     "diem": 28.25,
                     "chi_tieu": 24,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.43,
+                    "chi_tieu": 50,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.25,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
                 }
             ],
-            "trang_thai_nganh": []
+            "trang_thai_nganh": [
+                {
+                    "nam": 2025,
+                    "giai_doan": "Nhận hồ sơ",
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "ghi_chu": "15\/7 - 25\/7",
+                    "ngay_cap_nhat": "2025-07-15 11:50:57"
+                }
+            ]
         },
         {
             "nganh": "Mạng máy tính và truyền thông dữ liệu",
             "ma_nganh": "7480102",
-            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "khoa": "Trường Công nghệ Thông tin & Truyền thông",
             "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2",
             "tieu_chi_xet_tuyen": [
                 {
@@ -91,6 +119,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01",
                     "diem_toi_thieu": 16,
                     "ghi_chu": ""
@@ -138,6 +172,20 @@
                     "diem": 27.25,
                     "chi_tieu": 24,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 22.9,
+                    "chi_tieu": 50,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -145,7 +193,7 @@
         {
             "nganh": "Kỹ thuật phần mềm",
             "ma_nganh": "7480103",
-            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "khoa": "Trường Công nghệ Thông tin & Truyền thông",
             "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2",
             "tieu_chi_xet_tuyen": [
                 {
@@ -162,6 +210,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01",
                     "diem_toi_thieu": 16,
                     "ghi_chu": ""
@@ -209,6 +263,20 @@
                     "diem": 28.5,
                     "chi_tieu": 24,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.83,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.25,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -216,7 +284,7 @@
         {
             "nganh": "Hệ thống thông tin",
             "ma_nganh": "7480104",
-            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "khoa": "Trường Công nghệ Thông tin & Truyền thông",
             "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, TH1, TH2",
             "tieu_chi_xet_tuyen": [
                 {
@@ -233,6 +301,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01",
                     "diem_toi_thieu": 16,
                     "ghi_chu": ""
@@ -280,23 +354,28 @@
                     "diem": 27.5,
                     "chi_tieu": 24,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 23.48,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
         },
         {
-            "nganh": "Trí tuệ nhân tạo",
-            "ma_nganh": "7480107",
-            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
-            "mo_ta": "Chỉ tiêu: 60; Tổ hợp: A00, A01, TH1, TH2",
-            "tieu_chi_xet_tuyen": [],
-            "diem_chuan": [],
-            "trang_thai_nganh": []
-        },
-        {
             "nganh": "Công nghệ thông tin",
             "ma_nganh": "7480201",
-            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "khoa": "Trường Công nghệ Thông tin & Truyền thông",
             "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, A01, TH1, TH2",
             "tieu_chi_xet_tuyen": [
                 {
@@ -313,6 +392,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 17,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01",
                     "diem_toi_thieu": 17,
                     "ghi_chu": ""
@@ -360,6 +445,20 @@
                     "diem": 29,
                     "chi_tieu": 24,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.35,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.6,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -367,7 +466,7 @@
         {
             "nganh": "An toàn thông tin",
             "ma_nganh": "7480202",
-            "khoa": "Khoa Công nghệ Thông tin & Truyền thông",
+            "khoa": "Trường Công nghệ Thông tin & Truyền thông",
             "mo_ta": "Chỉ tiêu: 60; Tổ hợp: A00, A01, TH1, TH2",
             "tieu_chi_xet_tuyen": [
                 {
@@ -378,6 +477,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01",
                     "diem_toi_thieu": 16,
                     "ghi_chu": ""
@@ -411,6 +516,20 @@
                     "diem": 28.25,
                     "chi_tieu": 16,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 23.75,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.5,
+                    "chi_tieu": 18,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -418,7 +537,7 @@
         {
             "nganh": "Nông học",
             "ma_nganh": "7620109",
-            "khoa": "Khoa Nông nghiệp",
+            "khoa": "Trường Nông nghiệp",
             "mo_ta": "Chỉ tiêu: 100; Tổ hợp: B00, B08, D07, A00",
             "tieu_chi_xet_tuyen": [
                 {
@@ -435,6 +554,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "B00, B08, D07",
                     "diem_toi_thieu": 15,
                     "ghi_chu": ""
@@ -482,6 +607,20 @@
                     "diem": 18,
                     "chi_tieu": 40,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 65,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 21.75,
+                    "chi_tieu": 39,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -489,7 +628,7 @@
         {
             "nganh": "Bảo vệ thực vật",
             "ma_nganh": "7620112",
-            "khoa": "Khoa Nông nghiệp",
+            "khoa": "Trường Nông nghiệp",
             "mo_ta": "Chỉ tiêu: 180; Tổ hợp: B00, B08, D07, A00",
             "tieu_chi_xet_tuyen": [
                 {
@@ -506,6 +645,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "B00, B08, D07",
                     "diem_toi_thieu": 15,
                     "ghi_chu": ""
@@ -553,6 +698,20 @@
                     "diem": 21.25,
                     "chi_tieu": 64,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 90,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 24.25,
+                    "chi_tieu": 54,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -560,7 +719,7 @@
         {
             "nganh": "Khoa học cây trồng",
             "ma_nganh": "7620110",
-            "khoa": "Khoa Nông nghiệp",
+            "khoa": "Trường Nông nghiệp",
             "mo_ta": "Chỉ tiêu: 140; Tổ hợp: A02, B00, B08, D07",
             "tieu_chi_xet_tuyen": [
                 {
@@ -571,6 +730,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A02, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A02, B00, B08, D07",
                     "diem_toi_thieu": 15,
                     "ghi_chu": ""
@@ -618,6 +783,20 @@
                     "diem": 20,
                     "chi_tieu": 56,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 90,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 19.5,
+                    "chi_tieu": 54,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -625,7 +804,7 @@
         {
             "nganh": "Chăn nuôi",
             "ma_nganh": "7620105",
-            "khoa": "Khoa Nông nghiệp",
+            "khoa": "Trường Nông nghiệp",
             "mo_ta": "Chỉ tiêu: 120; Tổ hợp: A00, A02, B00, B08",
             "tieu_chi_xet_tuyen": [
                 {
@@ -642,6 +821,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A02, B00, B08",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A02, B00, B08",
                     "diem_toi_thieu": 15,
                     "ghi_chu": ""
@@ -689,6 +874,20 @@
                     "diem": 18,
                     "chi_tieu": 56,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 75,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 20,
+                    "chi_tieu": 45,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -696,7 +895,7 @@
         {
             "nganh": "Công nghệ rau hoa quả và cảnh quan",
             "ma_nganh": "7620113",
-            "khoa": "Khoa Nông nghiệp",
+            "khoa": "Trường Nông nghiệp",
             "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, B00, B08, D07",
             "tieu_chi_xet_tuyen": [
                 {
@@ -713,6 +912,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, B00, B08, D07",
                     "diem_toi_thieu": 15,
                     "ghi_chu": ""
@@ -760,6 +965,20 @@
                     "diem": 21,
                     "chi_tieu": 32,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 15,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -767,7 +986,7 @@
         {
             "nganh": "Nuôi trồng thủy sản",
             "ma_nganh": "7620301",
-            "khoa": "Khoa Thủy sản",
+            "khoa": "Trường Thủy sản",
             "mo_ta": "Chỉ tiêu: 280; Tổ hợp: A00, B00, B08, D07",
             "tieu_chi_xet_tuyen": [
                 {
@@ -784,6 +1003,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, B00, B08, D07",
                     "diem_toi_thieu": 15,
                     "ghi_chu": ""
@@ -831,6 +1056,20 @@
                     "diem": 21,
                     "chi_tieu": 88,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 150,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 21.5,
+                    "chi_tieu": 90,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -838,7 +1077,7 @@
         {
             "nganh": "Bệnh học thủy sản",
             "ma_nganh": "7620302",
-            "khoa": "Khoa Thủy sản",
+            "khoa": "Trường Thủy sản",
             "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, B00, B08, D07",
             "tieu_chi_xet_tuyen": [
                 {
@@ -849,6 +1088,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, B00, B08, D07",
                     "diem_toi_thieu": 15,
                     "ghi_chu": ""
@@ -896,6 +1141,20 @@
                     "diem": 18,
                     "chi_tieu": 40,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 50,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 19.75,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -903,7 +1162,7 @@
         {
             "nganh": "Quản lý thủy sản",
             "ma_nganh": "7620305",
-            "khoa": "Khoa Thủy sản",
+            "khoa": "Trường Thủy sản",
             "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, B00, B08, D07",
             "tieu_chi_xet_tuyen": [
                 {
@@ -920,6 +1179,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, B00, B08, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, B00, B08, D07",
                     "diem_toi_thieu": 15,
                     "ghi_chu": ""
@@ -967,6 +1232,20 @@
                     "diem": 18,
                     "chi_tieu": 40,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 50,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 21,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -974,7 +1253,7 @@
         {
             "nganh": "Kỹ thuật môi trường",
             "ma_nganh": "7520320",
-            "khoa": "Khoa Thủy sản",
+            "khoa": "Khoa Môi trường và Tài nguyên Thiên nhiên",
             "mo_ta": "Chỉ tiêu: 90; Tổ hợp: A00, A01, B00, D07",
             "tieu_chi_xet_tuyen": [
                 {
@@ -991,6 +1270,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01, B00, D07",
+                    "diem_toi_thieu": 15,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01, B00, D07",
                     "diem_toi_thieu": 15,
                     "ghi_chu": ""
@@ -1038,6 +1323,20 @@
                     "diem": 23.25,
                     "chi_tieu": 24,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 15,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 18,
+                    "chi_tieu": 24,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1045,7 +1344,7 @@
         {
             "nganh": "Quản lý tài nguyên và môi trường",
             "ma_nganh": "7850101",
-            "khoa": "Khoa Thủy sản",
+            "khoa": "Khoa Môi trường và Tài nguyên Thiên nhiên",
             "mo_ta": "Chỉ tiêu: 120; Tổ hợp: A00, A01, B00, D07",
             "tieu_chi_xet_tuyen": [
                 {
@@ -1064,6 +1363,12 @@
                     "nam": 2023,
                     "to_hop": "A00, A01, B00, D07",
                     "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "to_hop": "A00, A01, B00, D07",
+                    "diem_toi_thieu": 15,
                     "ghi_chu": ""
                 }
             ],
@@ -1109,6 +1414,20 @@
                     "diem": 24,
                     "chi_tieu": 48,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 18,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 24.5,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1116,7 +1435,7 @@
         {
             "nganh": "Quản trị kinh doanh",
             "ma_nganh": "7340101",
-            "khoa": "Khoa Kinh tế",
+            "khoa": "Trường Kinh tế",
             "mo_ta": "Chỉ tiêu: 140; Tổ hợp: A00, A01, C02, D01",
             "tieu_chi_xet_tuyen": [
                 {
@@ -1133,6 +1452,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01, C02, D01",
                     "diem_toi_thieu": 18,
                     "ghi_chu": ""
@@ -1180,6 +1505,20 @@
                     "diem": 28,
                     "chi_tieu": 32,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.05,
+                    "chi_tieu": 75,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.6,
+                    "chi_tieu": 45,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1187,7 +1526,7 @@
         {
             "nganh": "Marketing",
             "ma_nganh": "7340115",
-            "khoa": "Khoa Kinh tế",
+            "khoa": "Trường Kinh tế",
             "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, A01, C02, D01",
             "tieu_chi_xet_tuyen": [
                 {
@@ -1204,6 +1543,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01, C02, D01",
                     "diem_toi_thieu": 18,
                     "ghi_chu": ""
@@ -1251,6 +1596,20 @@
                     "diem": 28.5,
                     "chi_tieu": 24,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.6,
+                    "chi_tieu": 50,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.3,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1258,7 +1617,7 @@
         {
             "nganh": "Kinh doanh quốc tế",
             "ma_nganh": "7340120",
-            "khoa": "Khoa Kinh tế",
+            "khoa": "Trường Kinh tế",
             "mo_ta": "Chỉ tiêu: 120; Tổ hợp: A00, A01, C02, D01",
             "tieu_chi_xet_tuyen": [
                 {
@@ -1275,6 +1634,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01, C02, D01",
                     "diem_toi_thieu": 18,
                     "ghi_chu": ""
@@ -1322,6 +1687,20 @@
                     "diem": 28.5,
                     "chi_tieu": 32,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.8,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.5,
+                    "chi_tieu": 36,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1329,7 +1708,7 @@
         {
             "nganh": "Kinh tế",
             "ma_nganh": "7310101",
-            "khoa": "Khoa Kinh tế",
+            "khoa": "Trường Kinh tế",
             "mo_ta": "Chỉ tiêu: 80; Tổ hợp: A00, A01, C02, D01",
             "tieu_chi_xet_tuyen": [
                 {
@@ -1346,6 +1725,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 17,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01, C02, D01",
                     "diem_toi_thieu": 17,
                     "ghi_chu": ""
@@ -1393,6 +1778,20 @@
                     "diem": 27.75,
                     "chi_tieu": 32,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.1,
+                    "chi_tieu": 50,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.7,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1400,7 +1799,7 @@
         {
             "nganh": "Tài chính - Ngân hàng",
             "ma_nganh": "7340201",
-            "khoa": "Khoa Kinh tế",
+            "khoa": "Trường Kinh tế",
             "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, A01, C02, D01",
             "tieu_chi_xet_tuyen": [
                 {
@@ -1417,6 +1816,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01, C02, D01",
                     "diem_toi_thieu": 18,
                     "ghi_chu": ""
@@ -1464,6 +1869,20 @@
                     "diem": 28.25,
                     "chi_tieu": 24,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.8,
+                    "chi_tieu": 50,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.4,
+                    "chi_tieu": 30,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1471,7 +1890,7 @@
         {
             "nganh": "Kế toán",
             "ma_nganh": "7340301",
-            "khoa": "Khoa Kinh tế",
+            "khoa": "Trường Kinh tế",
             "mo_ta": "Chỉ tiêu: 100; Tổ hợp: A00, A01, C02, D01",
             "tieu_chi_xet_tuyen": [
                 {
@@ -1488,6 +1907,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01, C02, D01",
+                    "diem_toi_thieu": 18,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01, C02, D01",
                     "diem_toi_thieu": 18,
                     "ghi_chu": ""
@@ -1535,6 +1960,20 @@
                     "diem": 28,
                     "chi_tieu": 24,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.2,
+                    "chi_tieu": 70,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.8,
+                    "chi_tieu": 42,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1559,6 +1998,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, C01, D01, D03",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, C01, D01, D03",
                     "diem_toi_thieu": 19,
                     "ghi_chu": ""
@@ -1606,6 +2051,20 @@
                     "diem": 28.2,
                     "chi_tieu": 38,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 25.65,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.6,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1630,6 +2089,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01, B08, D07",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01, B08, D07",
                     "diem_toi_thieu": 19,
                     "ghi_chu": ""
@@ -1677,6 +2142,20 @@
                     "diem": 29.25,
                     "chi_tieu": 12,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.79,
+                    "chi_tieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 29.6,
+                    "chi_tieu": 12,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1701,6 +2180,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "A00, A01, D01, D07",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "A00, A01, D01, D07",
                     "diem_toi_thieu": 19,
                     "ghi_chu": ""
@@ -1748,6 +2233,20 @@
                     "diem": 27.25,
                     "chi_tieu": 26,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.56,
+                    "chi_tieu": 42,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 27.6,
+                    "chi_tieu": 28,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1772,6 +2271,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "C00, D14, D15",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "C00, D14, D15",
                     "diem_toi_thieu": 19,
                     "ghi_chu": ""
@@ -1819,6 +2324,20 @@
                     "diem": 27.8,
                     "chi_tieu": 18,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 27.83,
+                    "chi_tieu": 43,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.4,
+                    "chi_tieu": 29,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1843,6 +2362,12 @@
                 },
                 {
                     "nam": 2023,
+                    "to_hop": "D01, D14, D15",
+                    "diem_toi_thieu": 19,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
                     "to_hop": "D01, D14, D15",
                     "diem_toi_thieu": 19,
                     "ghi_chu": ""
@@ -1890,6 +2415,91 @@
                     "diem": 28,
                     "chi_tieu": 30,
                     "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 26.93,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.45,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                }
+            ],
+            "trang_thai_nganh": []
+        },
+        {
+            "nganh": "Truyền thông đa phương tiện",
+            "ma_nganh": "7320104",
+            "khoa": "Trường Công nghệ Thông tin & Truyền thông",
+            "mo_ta": "",
+            "tieu_chi_xet_tuyen": [
+                {
+                    "nam": 2022,
+                    "to_hop": "A00, A01, D01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "to_hop": "A00, A01, D01",
+                    "diem_toi_thieu": 16,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "to_hop": "A00, A01, D01",
+                    "diem_toi_thieu": 17,
+                    "ghi_chu": ""
+                }
+            ],
+            "diem_chuan": [
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.75,
+                    "chi_tieu": 59,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2022,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.5,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.8,
+                    "chi_tieu": 60,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2023,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28,
+                    "chi_tieu": 40,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét điểm thi tốt nghiệp THPT",
+                    "diem": 24.94,
+                    "chi_tieu": 45,
+                    "ghi_chu": ""
+                },
+                {
+                    "nam": 2024,
+                    "phuong_thuc": "Xét học bạ THPT",
+                    "diem": 28.3,
+                    "chi_tieu": 27,
+                    "ghi_chu": ""
                 }
             ],
             "trang_thai_nganh": []
@@ -1898,7 +2508,7 @@
     "phuong_thuc_xet_tuyen": [
         {
             "ten": "Xét điểm thi tốt nghiệp THPT",
-            "ghi_chu": "Áp dụng 2022–2025"
+            "ghi_chu": "Áp dụng 2021–2025"
         },
         {
             "ten": "Xét học bạ THPT",
@@ -1906,7 +2516,7 @@
         },
         {
             "ten": "Tuyển thẳng, ưu tiên xét tuyển",
-            "ghi_chu": "Theo quy định của Bộ GD&ĐT, áp dụng 2022–2025"
+            "ghi_chu": "Theo quy định của Bộ GD&ĐT, áp dụng 2021–2025"
         },
         {
             "ten": "Xét học bạ phân ngành sư phạm",
@@ -1929,22 +2539,22 @@
         {
             "ten": "Nhận hồ sơ",
             "thu_tu": 1,
-            "ghi_chu": ""
+            "ghi_chu": "Thí sinh đăng ký ngành\/nguyện vọng trên hệ thống theo quy định của Bộ Giáo dục."
         },
         {
             "ten": "Xét tuyển đợt 1",
             "thu_tu": 2,
-            "ghi_chu": ""
+            "ghi_chu": "Trường lọc hồ sơ, loại những thí sinh không đạt điều kiện cơ bản."
         },
         {
             "ten": "Xét tuyển đợt 2",
             "thu_tu": 3,
-            "ghi_chu": ""
+            "ghi_chu": "Điểm chuẩn được công bố theo từng ngành, phương thức. Thí sinh được xét theo thứ tự ưu tiên."
         },
         {
             "ten": "Công bố kết quả",
             "thu_tu": 4,
-            "ghi_chu": ""
+            "ghi_chu": "Trường công bố danh sách trúng tuyển trên hệ thống và gửi thông báo."
         }
     ]
 }

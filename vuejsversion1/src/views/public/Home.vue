@@ -5,10 +5,10 @@
       <div class="hero-overlay">
         <div class="hero-content">
           <h1 class="hero-title">Thông tin tuyển sinh đại học Cần Thơ</h1>
-          <p class="hero-subtitle">Hệ thống thông tin tuyển sinh trực tuyến - Cổng thông tin chính thức của Đại học Cần Thơ</p>
+          <p class="hero-subtitle">Hệ thống thông tin tra cứu tuyển sinh - Cổng thông tin của Đại học Cần Thơ</p>
           <div class="hero-buttons">
             <router-link to="/tuyen-sinh" class="btn btn-primary btn-large">Tìm hiểu tuyển sinh</router-link>
-            <router-link to="/diem-chuan" class="btn btn-outline btn-large">Tra cứu điểm chuẩn</router-link>
+            <router-link to="/diem-chuan-tieu-chuan" class="btn btn-outline btn-large">Tra cứu điểm chuẩn & tiêu chuẩn</router-link>
           </div>
         </div>
       </div>
@@ -30,14 +30,9 @@
               <router-link to="/nganh-hoc" class="btn btn-primary">Xem thêm</router-link>
             </div>
             <div class="card">
-              <h3 class="card-title">Tiêu chuẩn</h3>
-              <p class="card-text">Thông tin về các tiêu chuẩn xét tuyển và điều kiện đăng ký</p>
-              <router-link to="/tieu-chuan" class="btn btn-primary">Xem thêm</router-link>
-            </div>
-            <div class="card">
               <h3 class="card-title">Điểm chuẩn</h3>
-              <p class="card-text">Tra cứu điểm chuẩn các năm theo ngành học và phương thức xét tuyển</p>
-              <router-link to="/diem-chuan" class="btn btn-primary">Xem thêm</router-link>
+              <p class="card-text">Tra cứu điểm chuẩn và tiêu chuẩn xét tuyển các năm theo ngành học</p>
+              <router-link to="/diem-chuan-tieu-chuan" class="btn btn-primary">Xem thêm</router-link>
             </div>
           </div>
         </section>

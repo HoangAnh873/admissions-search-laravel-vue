@@ -66,6 +66,20 @@ Chatbot hỗ trợ các loại câu hỏi:
 
 ## 🔧 Cấu hình
 
+### Kết nối CSDL MySQL (mới)
+- Tạo file `db_config.py` trong thư mục `chatbot_ai/` với nội dung:
+```python
+DB_CONFIG = {
+    'host': 'localhost',
+    'user': 'your_user',
+    'password': 'your_password',
+    'database': 'your_db',
+    'port': 3306
+}
+```
+- Đảm bảo đã tạo các bảng ngành, điểm chuẩn, chỉ tiêu... trong CSDL.
+- Thay đổi chatbot để lấy dữ liệu từ CSDL thay vì file tĩnh.
+
 ### Model Embedding (demo.py)
 - **Model**: `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`
 - **Đặc điểm**: Đa ngôn ngữ, nhẹ, nhanh

@@ -152,13 +152,14 @@ export default {
   },
   watch: {
     selectedYear() {
-      this.fetchDiemChuan();
-      this.fetchTieuChuan();
+      this.refreshData();
     },
     selectedMethod() {
-      this.fetchDiemChuan();
+      this.refreshData();
     },
-    // Không fetch lại toàn bộ khi đổi tab, chỉ fetch lại tieuChuan nếu cần
+    selectedFaculty() {
+      // Không cần fetch lại data, chỉ cần update computed property
+    }
   },
   methods: {
     async fetchFaculties() {
@@ -215,10 +216,12 @@ export default {
         const response = await axios.get('/api/public/phuong-thuc')
         if (response && response.success && response.data) {
           this.phuongThuc = response.data
+          console.log('PhuongThuc loaded:', this.phuongThuc)
         } else {
           this.error = 'Dữ liệu phương thức không hợp lệ'
         }
       } catch (error) {
+        console.error('Error fetching phuongThuc:', error)
         this.error = 'Không thể tải dữ liệu phương thức'
       } finally {
         this.loading = false
@@ -229,21 +232,29 @@ export default {
       try {
         const params = {}
         if (this.selectedYear) params.nam_id = this.selectedYear
-        if (this.selectedMethod) params.phuong_thuc_id = this.selectedMethod
         const response = await axios.get('/api/public/diem-chuan', { params })
         if (response && response.success && Array.isArray(response.data)) {
           this.diemChuan = response.data
           if (this.faculties.length > 0) {
             this.faculties.forEach(faculty => {
               faculty.nganh.forEach(major => {
-                major.diemChuan = this.diemChuan
+                const filteredDiemChuan = this.diemChuan
                   .filter(dc => String(dc.nganh_id) === String(major.id))
-                  .map(score => ({
-                    nam: score.nam,
-                    phuongThuc: score.phuong_thuc,
-                    diem: score.diemChuan,
-                    ghiChu: score.ghiChu
-                  }))
+                  .filter(dc => {
+                    if (!this.selectedMethod) return true;
+                    const match = String(dc.phuong_thuc_id) === String(this.selectedMethod);
+                    console.log(`Comparing: ${dc.phuong_thuc_id} (${typeof dc.phuong_thuc_id}) === ${this.selectedMethod} (${typeof this.selectedMethod}) = ${match}`);
+                    return match;
+                  })
+                
+                console.log(`Major ${major.tenNganh}: selectedMethod=${this.selectedMethod}, filtered count=${filteredDiemChuan.length}`)
+                
+                major.diemChuan = filteredDiemChuan.map(score => ({
+                  nam: score.nam,
+                  phuongThuc: score.phuong_thuc,
+                  diem: score.diemChuan,
+                  ghiChu: score.ghiChu
+                }))
               })
             })
           }
@@ -290,17 +301,18 @@ export default {
     async fetchAllData() {
       this.error = null
       this.loading = true
-      if (this.activeTab === 'diemchuan') {
-        await this.fetchFaculties()
-        await this.fetchYears()
-        await this.fetchPhuongThuc()
-        await this.fetchDiemChuan()
-      } else {
-        await this.fetchFaculties()
-        await this.fetchYears()
-        await this.fetchTieuChuan()
-      }
+      await this.fetchFaculties()
+      await this.fetchYears()
+      await this.fetchPhuongThuc()
+      await this.fetchDiemChuan()
+      await this.fetchTieuChuan()
       this.loading = false
+    },
+    async refreshData() {
+      this.error = null
+      console.log('Refreshing data with selectedMethod:', this.selectedMethod, 'type:', typeof this.selectedMethod)
+      await this.fetchDiemChuan()
+      await this.fetchTieuChuan()
     },
     sortedDiemChuan(diemChuanArr) {
       if (!Array.isArray(diemChuanArr)) return [];
@@ -312,14 +324,22 @@ export default {
     }
   },
   async created() {
-    await this.fetchFaculties();
-    await this.fetchYears();
-    await this.fetchDiemChuan();
-    await this.fetchTieuChuan();
-    this.selectedYear = '';
-    this.selectedMethod = '';
-    this.selectedFaculty = '';
-    this.searchQuery = '';
+    try {
+      await this.fetchFaculties();
+      await this.fetchYears();
+      await this.fetchPhuongThuc();
+      await this.fetchDiemChuan();
+      await this.fetchTieuChuan();
+      
+      // Reset các giá trị filter
+      this.selectedYear = '';
+      this.selectedMethod = '';
+      this.selectedFaculty = '';
+      this.searchQuery = '';
+    } catch (error) {
+      console.error('Error in created:', error);
+      this.error = 'Không thể tải dữ liệu ban đầu';
+    }
   }
 }
 </script>

@@ -12,7 +12,7 @@
             <li><router-link to="/">Trang chủ</router-link></li>
             <li><router-link to="/tuyen-sinh">Tuyển sinh</router-link></li>
             <li><router-link to="/nganh-hoc">Ngành học</router-link></li>
-            <li><router-link to="/tieu-chuan">Tiêu chuẩn</router-link></li>
+            <li><router-link to="/diem-chuan-tieu-chuan">Điểm chuẩn</router-link></li>
             <li><router-link to="/lien-he">Liên hệ</router-link></li>
           </ul>
         </div>

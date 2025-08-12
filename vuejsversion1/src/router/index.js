@@ -21,6 +21,11 @@ import TieuChuan from '@/views/public/TieuChuan.vue'
 import LienHe from '@/views/public/LienHe.vue'
 import DiemChuan from '@/views/public/DiemChuan.vue'
 import DiemChuanTieuChuan from '@/views/public/DiemChuanTieuChuan.vue'
+import HeThongThongTin from '@/views/public/nganh/HeThongThongTin.vue'
+import NganhChuaCoThongTin from '@/views/public/NganhChuaCoThongTin.vue'
+
+// Component trung gian
+const NganhHocDetailRouter = () => import('@/views/public/NganhHocDetailRouter.vue')
 
 import { authMiddleware } from '@/middleware/auth' // Import middleware
 
@@ -31,6 +36,7 @@ const routes = [
   { path: '/', name: 'home', component: Home },
   { path: '/tuyen-sinh', name: 'tuyen-sinh', component: TuyenSinh },
   { path: '/nganh-hoc', name: 'nganh-hoc', component: NganhHoc },
+  { path: '/nganh-hoc/:id', name: 'nganh-detail', component: NganhHocDetailRouter },
   { path: '/tieu-chuan', name: 'tieu-chuan', component: TieuChuan },
   { path: '/diem-chuan', name: 'diem-chuan', component: DiemChuan },
   { path: '/diem-chuan-tieu-chuan', name: 'diem-chuan-tieu-chuan', component: DiemChuanTieuChuan },

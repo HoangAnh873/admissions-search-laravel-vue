@@ -237,6 +237,56 @@
     position: relative;
 }
 
+/* No Chart Data */
+.no-chart-data {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-data-content {
+    text-align: center;
+    padding: 48px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+    border: 1px solid #f1f5f9;
+    max-width: 500px;
+}
+
+.no-data-icon {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 24px;
+    background: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #64748b;
+}
+
+.no-data-icon svg {
+    width: 40px;
+    height: 40px;
+}
+
+.no-data-title {
+    color: #1e293b;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0 0 12px 0;
+}
+
+.no-data-text {
+    color: #64748b;
+    font-size: 1rem;
+    margin: 0;
+    font-weight: 500;
+    line-height: 1.6;
+}
+
 /* Loading Styles */
 .dashboard-loading {
     position: fixed;
@@ -380,6 +430,26 @@
     .chart-content {
         height: 220px;
     }
+    
+    .no-data-content {
+        padding: 32px 24px;
+        margin: 20px;
+    }
+    
+    .no-data-icon {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 16px;
+    }
+    
+    .no-data-icon svg {
+        width: 30px;
+        height: 30px;
+    }
+    
+    .no-data-title {
+        font-size: 1.25rem;
+    }
 }
 
 @media (max-width: 640px) {
@@ -470,3 +540,53 @@ html {
 ::-webkit-scrollbar-thumb:hover {
     background: #94a3b8;
 }
+
+.chart-container {
+    background-color: #fff;       /* nền trắng sạch sẽ */
+    padding: 20px 30px;           /* padding đủ thoáng */
+    border-radius: 12px;          /* bo góc mềm mại */
+    box-shadow: 0 4px 12px rgb(0 0 0 / 0.1); /* đổ bóng nhẹ */
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .chart-container:hover {
+    box-shadow: 0 8px 20px rgb(0 0 0 / 0.15); /* bóng nổi bật khi hover */
+  }
+  
+  .chart-container h3 {
+    font-weight: 600;
+    margin-bottom: 18px;
+    color: #4a4a4a;
+    font-size: 1.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
+  
+  .apexcharts-tooltip {
+    font-size: 0.9rem !important;
+    font-weight: 500 !important;
+    background-color: #444 !important;
+    color: #fff !important;
+    border-radius: 6px !important;
+    padding: 8px 12px !important;
+    box-shadow: 0 4px 12px rgb(0 0 0 / 0.2) !important;
+  }
+  
+  /* Tinh chỉnh thanh trục x để chữ ko bị dính nhau */
+  .apexcharts-xaxis-texts-g text {
+    font-size: 0.9rem;
+    font-weight: 600;
+    fill: #333;
+    letter-spacing: 0.03em;
+  }
+  
+  /* Màu thanh biểu đồ nổi bật */
+  .apexcharts-bar-series .apexcharts-series-markers circle {
+    fill: #4f46e5 !important; /* màu chính (indigo-600) */
+  }
+  
+  /* Đổ bóng nhẹ cho thanh biểu đồ */
+  .apexcharts-bar-area .apexcharts-bar {
+    filter: drop-shadow(0 1px 1px rgba(79, 70, 229, 0.3));
+  }
+  

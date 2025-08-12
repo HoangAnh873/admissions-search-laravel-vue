@@ -24,10 +24,18 @@
         <section v-else-if="faculties.length > 0" class="faculty-section" v-for="faculty in filteredFaculties" :key="faculty.id">
           <h2 class="section-title">{{ faculty.name }}</h2>
           <div class="grid-container">
-            <div class="card" v-for="major in faculty.nganh" :key="major.id">
+            <div class="card major-card" v-for="major in faculty.nganh" :key="major.id">
               <h3 class="card-title">{{ major.tenNganh }}</h3>
               <div class="major-details">
                 <p class="card-text"><strong>Mã ngành:</strong> {{ major.maNganh }}</p>
+                <div class="view-details">
+                  <router-link :to="`/nganh-hoc/${major.id}`" class="view-details-link">
+                    <span class="view-details-text">Xem chi tiết</span>
+                    <svg class="view-details-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M9 18l6-6-6-6"/>
+                    </svg>
+                  </router-link>
+                </div>
               </div>
             </div>
           </div>
@@ -137,6 +145,18 @@ export default {
   padding: 2rem;
 }
 
+.major-card {
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.major-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  border-color: #007bff;
+}
+
 .card-title {
   color: #333;
   margin-bottom: 1rem;
@@ -151,6 +171,39 @@ export default {
   margin-top: 1rem;
   padding-top: 1rem;
   border-top: 1px solid #eee;
+}
+
+.view-details {
+  margin-top: 1rem;
+}
+
+.view-details-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.view-details-link:hover {
+  color: #0056b3;
+  transform: translateX(4px);
+}
+
+.view-details-text {
+  font-size: 0.9rem;
+}
+
+.view-details-icon {
+  width: 16px;
+  height: 16px;
+  transition: transform 0.3s ease;
+}
+
+.view-details-link:hover .view-details-icon {
+  transform: translateX(4px);
 }
 
 .form-control {

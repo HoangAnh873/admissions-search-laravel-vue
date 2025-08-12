@@ -63,7 +63,7 @@ Route::middleware(['auth:sanctum'])->group(function () {
 
     Route::get('/thong-ke/nam/{nam_id}', [ThongKeController::class, 'theoNam']);
     Route::get('/thong-ke/phuong-thuc/{nam_id}', [ThongKeController::class, 'theoPhuongThuc']);
-    Route::get('/thong-ke/nhieu-nam', [ThongKeController::class, 'nhieuNam']);
+    Route::get('/thong-ke/nam-gan-nhat', [ThongKeController::class, 'namGanNhat']);
 
     // PhuongThucXetTuyen
     Route::apiResource('phuong-thuc-xet-tuyens', PhuongThucXetTuyenController::class);

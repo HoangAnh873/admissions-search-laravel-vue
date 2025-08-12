@@ -15,14 +15,6 @@
             <i class="fas fa-book"></i>
             <span>Ngành học</span>
           </router-link>
-          <!-- <router-link to="/tieu-chuan" class="nav-item">
-            <i class="fas fa-check-circle"></i>
-            <span>Tiêu chuẩn</span>
-          </router-link>
-          <router-link to="/diem-chuan" class="nav-item">
-            <i class="fas fa-chart-line"></i>
-            <span>Điểm chuẩn</span>
-          </router-link> -->
           <router-link to="/diem-chuan-tieu-chuan" class="nav-item">
             <i class="fas fa-check-circle"></i>
             <span>Điểm chuẩn</span>
@@ -34,7 +26,7 @@
         </div>
         <div class="navbar-brand">
           <router-link to="/" class="logo">
-            <img src="/logo.svg" alt="Logo" class="logo">
+            <img src="/logo-ctu2.png" alt="Logo" class="logo">
           </router-link>
         </div>
       </div>
@@ -77,7 +69,9 @@ export default {
 }
 
 .logo img {
-  height: 40px;
+  height: 60px;
+  width: auto;
+  max-width: 200px;
   transition: transform 0.2s ease;
 }
 

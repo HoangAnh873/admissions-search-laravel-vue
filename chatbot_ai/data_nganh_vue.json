@@ -1,0 +1,1622 @@
+[
+  {
+    "tenNganh": "An toàn thông tin",
+    "maNganh": "7480202",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Công nghệ thông tin & truyền thông"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Ngành An toàn thông tin đào tạo kỹ sư có khả năng bảo vệ an toàn thông tin số, các hệ thống thông tin và hệ thống mạng; phòng ngừa, phát hiện, và ngăn chặn kịp thời các hoạt động truy cập, sửa đổi, phát tán, phá hoại, và tấn công bất hợp pháp nhằm vào hệ thống thông tin của một tổ chức; đề xuất các giải pháp bảo mật/an toàn thông tin đồng thời triển khai giám sát, đánh giá, kiểm định an toàn thông tin; xử lý các sự cố liên quan đến bảo mật, an toàn thông tin hệ thống. Sinh viên sẽ được trang bị đầy đủ kiến thức, tri thức, kỹ năng cần thiết về bảo mật/an ninh dữ liệu, hệ thống thông tin, và mạng máy tính; kiến thức chuyên sâu về kỹ thuật mật mã, an toàn hệ điều hành, cơ sở dữ liệu, an toàn các ứng dụng web và Internet, an toàn trong giao dịch và thương mại điện tử, các kỹ thuật tấn công và xâm nhập mạng, mô hình bảo vệ và các kỹ thuật phòng thủ chống tấn công đột nhập; khả năng phân tích và phán đoán tình huống, có kỹ năng lập trình, sử dụng thành thạo các công cụ, giải pháp tiên tiến để đảm bảo an toàn thông tin; thực hành các tình huống thực tế cho việc phòng chống, phát hiện, ngăn chặn các cuộc tấn công hệ thống.",
+    "viTriViecLam": [
+      "Chuyên viên an toàn/bảo mật thông tin",
+      "Nhân viên quản trị và an ninh mạng máy tính",
+      "Chuyên viên điều tra tội phạm mạng và xử lý sự cố an toàn thông tin",
+      "Chuyên viên vận hành giám sát an toàn thông tin",
+      "Chuyên viên tư vấn, thiết kế, xây dựng các giải pháp về bảo mật công nghệ thông tin",
+      "Lập trình viên trong các công ty thuộc lĩnh vực công nghệ thông tin",
+      "Chủ công ty trong lĩnh vực công nghệ thông tin",
+      "Giảng viên các trường đại học, cao đẳng, trung cấp đào tạo công nghệ thông tin"
+    ],
+    "noiLamViec": [
+      "Cơ quan, tổ chức, và doanh nghiệp có triển khai các giải pháp công nghệ thông tin",
+      "Cơ quan chuyên trách bảo mật thông tin, an ninh và phòng chống tội phạm mạng",
+      "Công ty lập trình phần mềm",
+      "Công ty tư vấn và triển khai các giải pháp công nghệ thông tin",
+      "Các viện, trung tâm nghiên cứu và các trường đại học, cao đẳng, trung cấp, phổ thông"
+    ],
+    "file": "AnToanThongTin.vue"
+  },
+  {
+    "tenNganh": "Bảo Vệ Thực Vật",
+    "maNganh": "7620112",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Nông nghiệp"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)",
+          "Toán, Lý, Hóa (A00)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)",
+          "Toán, Lý, Hóa (A00)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)",
+          "Toán, Lý, Hóa (A00)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Ngành Bảo vệ Thực vật (BVTV) là ngành chuyên về lĩnh vực Bảo vệ Thực vật. Sinh viên theo học ngành BVTV sẽ được học kiến thức cơ bản ở bậc đại học; kiến thức cơ sở ngành về cây trồng, thổ nhưỡng, sinh lý sinh hoá thực vật và di truyền học thực vật; kiến thức chuyên ngành về côn trùng nông nghiệp, bệnh hại cây trồng, cỏ dại, hóa học bảo vệ thực vật, phòng trừ sinh học và quản lý dịch hại tổng hợp. Ngoài ra, sinh viên còn được rèn luyện kỹ năng nghề nghiệp thông qua các buổi thảo luận chuyên đề với đại diện của các doanh nghiệp kinh doanh nông nghiệp hàng đầu ở Việt Nam, thông qua tham quan học tập và thực tập cơ sở tại các trung tâm thực nghiệm nông nghiệp của doanh nghiệp và cơ quan nông nghiệp địa phương.",
+    "viTriViecLam": [
+      "Kỹ sư phụ trách kỹ thuật tại các cơ quan quản lý nông nghiệp và doanh nghiệp sản xuất và kinh doanh nông nghiệp.",
+      "Kỹ sư phụ trách kinh doanh tại các doanh nghiệp kinh doanh nông nghiệp.",
+      "Nghiên cứu viên tại các trường đại học, viện nghiên cứu, trung tâm nghiên cứu nông nghiệp.",
+      "Giảng viên tại các Trường Trung cấp và Cao đẳng Nông nghiệp.",
+      "Học viên cao học (trình độ thạc sĩ) hoặc nghiên cứu sinh (trình độ tiến sĩ) thuộc chuyên ngành Bảo vệ Thực vật."
+    ],
+    "noiLamViec": [
+      "Công ty, tập đoàn sản xuất và kinh doanh nông nghiệp, công ty thuốc BVTV.",
+      "Cơ quan quản lý nông nghiệp như Sở Nông nghiệp & PTNT, Sở Khoa học và Công nghệ, Trung tâm Khuyến nông, Chi cục Trồng trọt & BVTV, Phòng Nông nghiệp & PTNT, Trạm Trồng trọt & BVTV, Trạm Kiểm dịch Thực vật.",
+      "Viện nghiên cứu, trường trung cấp, cao đẳng và đại học thuộc lĩnh vực nông nghiệp."
+    ],
+    "file": "BaoVeThucVat.vue"
+  },
+  {
+    "tenNganh": "Bệnh học thủy sản",
+    "maNganh": "7620302",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Thủy Sản"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Ngành bệnh học thủy sản đào tạo kỹ sư có khả năng xét nghiệm/chẩn đoán, phòng và trị một số bệnh phổ biến trên các đối tượng nuôi thủy sản, quản lý và vận hành cơ sở sản xuất và kinh doanh thủy sản, phòng thí nghiệm bệnh thủy sản và có khả năng tham gia ở lĩnh vực kinh doanh dịch vụ thuốc và hóa chất sử dụng trong nuôi trồng thủy sản. Sinh viên được học kiến thức về (i) chẩn đoán các bệnh thường gặp ở động vật thủy sản; (ii) xét nghiệm bệnh ở động vật thủy sản, (iii) quản lý dịch bệnh tổng hợp trong nuôi thủy sản; (iv) quản lý và sử dụng thuốc và hóa chất trong nuôi thủy sản. Đồng thời sinh viên còn có kiến thức về sản xuất giống và nuôi một số đối tượng nuôi thủy sản chủ lực như tôm biển, tôm càng xanh và cá tra.",
+    "viTriViecLam": [
+      "Kỹ sư chuyên về xét nghiệm/chẩn đoán bệnh thủy sản;",
+      "Kỹ sư phụ trách bệnh thủy sản, quản lý các vùng nuôi thủy sản;",
+      "Chủ cơ sở sản xuất và kinh doanh thủy sản;",
+      "Giảng viên các trường đại học, cao đăng, trung cấp đào tạo về thủy sản."
+    ],
+    "noiLamViec": [
+      "Chi cục nuôi thủy sản;",
+      "Chi cục thú y;",
+      "Trường đại học, cao đẳng, trung cấp,… đào tạo về thủy sản;",
+      "Các công ty sản xuất và kinh doanh giống thủy sản;",
+      "Các công ty sản xuất và kinh doanh thức ăn thủy sản;",
+      "Các công ty sản xuất và kinh doanh thuốc thú y thủy sản;",
+      "Tự tổ chức sản xuất và kinh doanh thủy sản."
+    ],
+    "file": "BenhHocThuySan.vue"
+  },
+  {
+    "tenNganh": "Chăn nuôi",
+    "maNganh": "7620105",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Nông nghiệp"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Sinh (A02)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Sinh (A02)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Sinh (A02)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Ngành Chăn nuôi đào tạo kỹ sư có phẩm chất chính trị, đạo đức và sức khoẻ tốt; có trình độ năng lực đáp ứng nhu cầu nguồn nhân lực và phát triển kinh tế đất nước; có kiến thức và kỹ năng về Chăn nuôi và Thú y. Sinh viên nắm vững và hiểu rõ các nguyên lý của quá trình sinh học liên quan đến nuôi dưỡng và bảo vệ vật nuôi; có đủ kiến thức chuyên ngành Chăn nuôi-Thú y và kỹ năng nghề nghiệp tốt dựa trên nền tảng của khối kiến cơ bản-cơ sở-chuyên ngành, kiến thức thực tế và công nghệ sản xuất hiện đại; có khả năng tự nghiên cứu, quản lý cơ sở sản xuất, làm dịch vụ và quản lý ngành nghề trong lĩnh vực chăn nuôi và thú y; có đạo đức và tư duy tốt, tiếp cận nhanh với khoa học kỹ thuật, làm việc độc lập và chuyên nghiệp ở các ngành nghề và vị trí khác nhau, tự hội nhập và tự phát triển nghề nghiệp, hội đủ yêu cầu chuẩn đầu ra ngày càng cao của nhà tuyển dụng trong và ngoài nước.",
+    "viTriViecLam": [
+      "Kỹ sư tư vấn, vận hành, quản lí trang trại chăn nuôi;",
+      "Kỹ sư tư vấn, vận hành, quản lí nhà máy ấp trứng/quản lý trang trại giống gia súc - gia cầm;",
+      "Kỹ sư quản lý các cơ sở giết mổ gia súc-gia cầm và chế biến thực phẩm chăn nuôi;",
+      "Kỹ sư phụ trách thu mua, quản lí chất lượng nguyên liệu thức ăn chăn nuôi;",
+      "Giám đốc phụ trách kỹ thuật, kinh doanh, sản xuất về chăn nuôi, thú y;",
+      "Chủ cơ sở, trang trại chăn nuôi, thú y;",
+      "Giảng viên các viện, trường đại học, cao đẳng, trung cấp đào tạo về lĩnh vực chăn nuôi, thú y.",
+      "Phụ trách các công ty sản xuất và kinh doanh nông nghiệp; Tư vấn lĩnh vực bảo hiểm vật nuôi, Nhân viên thẩm định dự án chăn nuôi tại các ngân hàng thương mại."
+    ],
+    "noiLamViec": [
+      "Các công ty, xí nghiệp nông nghiệp; trạm, trại; nhà máy chế biến thức ăn chăn nuôi và sản xuất thuốc thú y trong và ngoài nước;",
+      "Các cơ quan nông nghiệp và các ngành có liên quan như Chi cục Chăn nuôi và Thú y, Trung tâm giống vật nuôi, Trung tâm khuyến nông,…;",
+      "Các viện nghiên cứu, trường đại học, cao đẳng;",
+      "Các công ty tư vấn, chuyển giao công nghệ, thiết kế và xây lắp nông nghiệp,…;",
+      "Nữ giới cũng đang có cơ hội lớn để làm việc trong ngành Chăn nuôi - Thú y."
+    ],
+    "file": "ChanNuoi.vue"
+  },
+  {
+    "tenNganh": "Công nghệ rau hoa quả và cảnh quan",
+    "maNganh": "7620113",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Nông nghiệp"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Ngành Công Nghệ Rau Hoa Quả & CQ (CNRHQ&CQ) là ngành học đào tạo nguồn nhân lực cho hoạt động quản lý rau hoa quả và làm đẹp cảnh quan khu nhà ở, đường phố, công viên, công sở, v.v... Mục tiêu đào tạo sinh viên có: Phẩm chất chính trị vững vàng, tư cách ứng xử của công dân tốt; Kỹ thuật quản lý rau hoa quả; Bảo dưỡng hoa viên, cây cảnh, cảnh quan môi trường, thực hành thiết kế, thi công các công trình cảnh quan; Năng lực quản lý trang trại về kỹ thuật trồng rau hoa quả và tài chính; Kỹ năng làm việc nhóm và độc lập làm việc.",
+    "viTriViecLam": [
+      "Kỹ sư thiết kế, quản lý công trình cảnh quan;",
+      "Kỹ sư quản lý trang trại trồng rau hoa quả;",
+      "Kỹ sư nghiên cứu, giảng dạy trong các trường viện về ngành CNRHQ&CQ."
+    ],
+    "noiLamViec": [
+      "Làm việc tại các công ty tư nhân kinh doanh về cơ sở hạ tầng và cảnh quan, đặc biệt là các nơi nghỉ dưỡng cao cấp.",
+      "Thành lập công ty kinh doanh dịch vụ, chăm sóc, mua bán cây hoa kiểng, nhận thiết kế thi công cảnh quan sân vườn biệt thự.",
+      "Làm việc tại các công ty sản xuất giống cây trồng, dịch vụ khoa học nông nghiệp.",
+      "Làm việc ở các Viện, Trường có liên quan đến lĩnh vực rau hoa quả và cảnh quan."
+    ],
+    "file": "CongNgheRauHoaQuaCanhQuan.vue"
+  },
+  {
+    "tenNganh": "Công nghệ thông tin",
+    "maNganh": "7480201",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Công nghệ thông tin & truyền thông"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Chuyên ngành Công nghệ thông tin (CNTT) đào tạo kỹ sư có kỹ năng và kiến thức để đảm nhận vị trí nghề nghiệp trong lĩnh vực CNTT, thăng tiến đến vị trí lãnh đạo, khả hành nghiên cứu hoặc tiếp tục học cao hơn trong lĩnh vực này. Sinh viên ngành CNTT sẽ được trang bị những kiến thức nền tảng về cơ sở lý thuyết, toán và khoa học được sử dụng trong lĩnh vực CNTT, kiến thức chuyên sâu và các giải pháp về sản phẩm CNTT đương đại. Sau khi học xong chương trình, người học có khả năng giải thích và vận dụng kiến thức nền tảng, các giải pháp và sản phẩm CNTT thích hợp đáp ứng nhu cầu của một tổ chức hay cá nhân.",
+    "viTriViecLam": [
+      "Nhà tư vấn, giám sát, nhà lãnh đạo lĩnh vực công nghệ thông tin cho các tổ chức, doanh nghiệp hay cá nhân.",
+      "Lập trình viên, kỹ thuật viên, quản trị viên hệ thống công nghệ thông tin cho các tổ chức, doanh nghiệp hay cá nhân.",
+      "Cán bộ nghiên cứu, phân tích trong lĩnh vực công nghệ thông tin tại các viện nghiên cứu hay các trường đại học.",
+      "Giảng viên giảng dạy ở các trường đại học, cao đẳng, trung học chuyên nghiệp, trung học phổ thông."
+    ],
+    "noiLamViec": [
+      "Các doanh nghiệp, công ty, tập đoàn có sử dụng CNTT.",
+      "Các công ty, tập đoàn phát triển công nghệ và sản phẩm CNTT.",
+      "Các trường đại học, cao đẳng, trung học chuyên nghiệp, trung học phổ thông."
+    ],
+    "file": "CongNgheThongTin.vue"
+  },
+  {
+    "tenNganh": "Giáo dục Tiểu học",
+    "maNganh": "7140202",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Sư phạm"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Văn, Toán, Lý (C01)",
+          "Văn, Toán, Tiếng Anh (D01)",
+          "Văn, Toán, Tiếng Pháp (D03)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Văn, Toán, Lý (C01)",
+          "Văn, Toán, Tiếng Anh (D01)",
+          "Văn, Toán, Tiếng Pháp (D03)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Văn, Toán, Lý (C01)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Là một trong 93 ngành đào tạo của Trường ĐHCT, Chương trình Giáo dục tiểu học (đơn vị quản lí: Bộ môn Giáo dục Tiểu học - Mầm non, Khoa Sư phạm) đào tạo đội ngũ giáo viên tiểu học có đầy đủ năng lực chuyên môn nghề nghiệp, có khả năng tự học và làm việc độc lập, sáng tạo và giải quyết những vấn đề giáo dục thuộc lĩnh vực chuyên môn đáp ứng yêu cầu chuẩn nghề nghiệp giáo viên và Chương trình giáo dục phổ thông; có khả năng tiếp cận và ứng dụng những thành tựu khoa học kĩ thuật vào giảng dạy và phát triển chuyên môn; có đầy đủ thể lực, phẩm chất chính trị, đạo đức nghề nghiệp, nghiên cứu khoa học để học tiếp ở bậc học cao hơn trong và ngoài nước nhằm phục vụ yêu cầu phát triển của đất nước và hội nhập quốc tế. Ngoài khối kiến thức lí thuyết được học trên lớp, sinh viên được tham gia học tập, kiến tập, thực tập tại các trường tiểu học trong và ngoài nước; nghiên cứu khoa học và giao lưu trao đổi học thuật với sinh viên các trường đại học trong và ngoài nước; học tập trải nghiệm văn hóa giáo dục trong và ngoài nước; giao lưu trao đổi chuyên môn nghiệp vụ tại hội thi nghiệp vụ sư phạm được tổ chức hàng năm; tham gia các hoạt động văn hóa, văn nghệ, thể thao; được tạo mọi điều kiện học tập, nghiên cứu để phát triển và thể hiện năng lực bản thân.",
+    "viTriViecLam": [
+      "Giáo viên dạy tiểu học; giáo viên dạy tiểu học ở các trường quốc tế, song ngữ;",
+      "Giảng viên trường cao đẳng và đại học có đào tạo giáo viên tiểu học;",
+      "Chuyên viên và cán bộ quản lý ở các trường học và các cơ sở giáo dục khác;",
+      "Nghiên cứu viên, tư vấn tâm lí cho các trường học và các trung tâm nghiên cứu khoa học giáo dục."
+    ],
+    "noiLamViec": [
+      "Trường tiểu học; Trường tiểu học quốc tế;",
+      "Trường cao đẳng, đại học;",
+      "Sở giáo dục và đào tạo; Phòng giáo dục;",
+      "Cơ sở giáo dục dân lập, quốc tế;",
+      "Các trung tâm tư vấn tâm lí học đường."
+    ],
+    "file": "GiaoDucTieuHoc.vue"
+  },
+  {
+    "tenNganh": "Hệ thống thông tin",
+    "maNganh": "7480104",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Công nghệ thông tin & truyền thông"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Ngành Hệ thống thông tin (HTTT) đào tạo kỹ sư có khả năng phân tích, thiết kế, xây dựng và quản trị các HTTT (phần mềm phục vụ quản lý, điều hành, hỗ trợ ra quyết định) cho các tổ chức hoạt động trong các lĩnh vực khác nhau như thương mại, giáo dục, hành chính sự nghiệp. Sinh viên được học kiến thức và rèn luyện kỹ năng nghề nghiệp chung dành cho người làm việc trong lĩnh vực CNTT nói chung và ngành HTTT nói riêng (ví dụ, các giải pháp CNTT phục vụ chuyển đổi số trong quản lý; nền tảng CNTT; đảm bảo an toàn HTTT, mạng máy tính; lập trình ứng dụng, thiết kế hệ thống Web); kiến thức và kỹ năng chuyên sâu về quy trình, kỹ thuật xây dựng và phát triển HTTT quản lý, HTTT thông minh (phân tích dữ liệu và hành vi người dùng, tích hợp trí tuệ nhân tạo vào HTTT), cách thức sử dụng, quản trị các hệ quản trị CSDL, kỹ năng về tích hợp hệ thống.",
+    "viTriViecLam": [
+      "Chuyên viên tư vấn, thiết kế giải pháp xây dựng HTTT cho đơn vị, tổ chức.",
+      "Quản trị viên HTTT tại các đơn vị, tổ chức.",
+      "Lập trình viên, quản lý dự án phần mềm",
+      "Chuyên viên thiết kế, quản trị cơ sở dữ liệu.",
+      "Chuyên gia phân tích, thiết kế HTTT",
+      "Phụ trách các công ty mua bán thiết bị tin học, các công ty gia công phần mềm.",
+      "Giảng viên các trường đại học, cao đẳng, trung cấp đào tạo về CNTT. Giáo viên các trường THPT, THCS."
+    ],
+    "noiLamViec": [
+      "Các công ty tư vấn, thiết kế giải pháp CNTT.",
+      "Các đơn vị, tổ chức có ứng dụng CNTT trong quản lý và điều hành.",
+      "Các công ty phần mềm.",
+      "Các công ty mua bán thiết bị, dịch vụ liên quan đến CNTT",
+      "Các trường đại học, cao đẳng, trung cấp, THPT, THCS"
+    ],
+    "file": "HeThongThongTin.vue"
+  },
+  {
+    "tenNganh": "Kế toán",
+    "maNganh": "7340301",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Kinh tế"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Ngành Kế toán đào tạo cử nhân kế toán có khả năng thiết kế, thực hiện và điều hành hệ thống kế toán trong doanh nghiệp, đơn vị hành chính sự nghiệp, ngân hàng và các đơn vị kế toán khác. Sinh viên được học kiến thức về luật kế toán, chuẩn mực kế toán Việt Nam và quốc tế, các chế độ kế toán hiện hành, các văn bản pháp quy có liên quan đến kế toán, tài chính và thống kê. Đồng thời, sinh viên còn được trang bị chuyên sâu kỹ năng về chuyên môn kế toán như: lập chứng từ kế toán; ghi sổ kế toán; lập và phân tích báo cáo tài chính, báo cáo kế toán quản trị; sử dụng phần mềm kế toán;…. để thực hiện công tác kế toán trong doanh nghiệp, ngân hàng, đơn vị hành chính sự nghiệp, kho bạc nhà nước và các đơn vị kế toán khác.",
+    "viTriViecLam": [
+      "Nhân viên kế toán tại các doanh nghiệp, ngân hàng, đơn vị hành chính sự nghiệp, chương trình/dự án kinh tế - xã hội và các đơn vị kế toán khác: sinh viên sau khi tốt nghiệp có đủ kiến thức và kỹ năng thực hiện kế toán chi tiết, kế toán tổng hợp, kế toán phân tích, kiểm toán nội bộ;",
+      "Chuyên viên phân tích và tư vấn tài chính – kế toán trong các công ty cung cấp dịch vụ, tư vấn tài chính – kế toán: sinh viên sau khi tốt nghiệp có đủ kiến kiến và kỹ năng để đảm nhận công việc phân tích và tư vấn về kế toán, thuế, tài chính trong doanh nghiệp, ngân hàng, đơn vị hành chính sự nghiệp và các đơn vị kế toán khác;",
+      "Nghiên cứu viên và giảng viên tại các cơ sở giáo dục trình độ cao đẳng, đại học, trung học chuyên nghiệp và các cơ sở nghiên cứu: sinh viên sau khi tốt nghiệp có thể đảm nhận công việc giảng dạy, nghiên cứu các vấn đề có liên quan đến kế toán, tài chính và kiểm toán."
+    ],
+    "noiLamViec": [
+      "Các doanh nghiệp sản xuất kinh doanh hàng hóa, dịch vụ;",
+      "Các ngân hàng, các tổ chức tài chính và công ty kiểm toán;",
+      "Các đơn vị hành chính sự nghiệp và các đơn vị có sử dụng ngân sách Nhà nước khác;",
+      "Các tổ chức hoạt động xã hội không sử dụng ngân sách Nhà nước;",
+      "Chương trình/dự án về kinh tế - xã hội;",
+      "Các trường đại học, cao đẳng, các viện nghiên cứu về lĩnh vực kế toán, kiểm toán và tài chính."
+    ],
+    "file": "KeToan.vue"
+  },
+  {
+    "tenNganh": "Khoa học cây trồng",
+    "maNganh": "7620110",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Nông nghiệp"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Sinh (A02)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Sinh (A02)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Sinh (A02)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Chuyên ngành Khoa học Cây trồng nghiên cứu, phân tích, giải quyết các vấn liên quan đến cây trồng như chọn tạo và nhân giống; kỹ thuật canh tác các loại trồng (cây lúa, cây ăn trái, cây rau màu…); các yếu tố ảnh hưởng đến sự sinh trưởng, phát triển và năng suất cây trồng. Bên cạnh đó, người học có khả năng tạo ra những giống cây trồng mới, tiếp cận những phương pháp, công nghệ hiện đại góp phần tạo ra các sản phẩm cây trồng sạch, an toàn và chất lượng. Sau khi tốt nghiệp, người học có khả năng quản lý và sản xuất cây trồng thích ứng với điều kiện biến đổi khí hậu; có năng lực làm việc và nghiên cứu khoa học; có ý thức phục vụ nhân dân nhằm đáp ứng nhu cầu nguồn nhân lực trong xu hướng phát triển nền Nông nghiệp Hội nhập quốc tế và bền vững của đất nước.",
+    "viTriViecLam": [
+      "Cán bộ quản lý, cán bộ kỹ thuật, cán bộ giảng dạy và nghiên cứu trong lĩnh vực Khoa học cây trồng ở các cơ quan quản lý về Nông nghiệp; các Viện, trường; các doanh nghiệp, hợp tác xã…",
+      "Khởi nghiệp: tự lập trang trại, công ty riêng (trại nấm, giống cây trồng, trồng rau sạch, trồng rau tự động…)",
+      "Có khả năng học tập nâng cao trình độ (thạc sĩ, tiến sĩ) trong và ngoài nước bằng các nguồn học bổng đa dạng khác nhau tại các nước như Nhật Bản, Hàn Quốc, Mỹ, Canada, Hà Lan, Israel…"
+    ],
+    "noiLamViec": [
+      "Các cơ quan quản lý về Nông nghiệp (Bộ Nông nghiệp và Phát triển nông thôn, sở Nông nghiệp và Phát triển nông thôn, sở Khoa học và Công nghệ trung tâm Khuyến nông, trung tâm giống, phòng Nông nghiệp và Phát triển Nông thôn; trạm Khuyến nông…); các Viện, trường, cơ quan giảng dạy và nghiên cứu khoa học; các doanh nghiệp, hợp tác xã (công ty Giống cây trồng, công ty Phân bón, trang trại, hợp tác xã Nông nghiệp, công ty chăm sóc cây trồng…); các tổ chức trong và ngoài nước hoặc có thể tự tạo lập công việc sản xuất và dịch vụ trong lĩnh vực Cây trồng."
+    ],
+    "file": "KhoaHocCayTrong.vue"
+  },
+  {
+    "tenNganh": "Khoa học máy tính",
+    "maNganh": "7480101",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Công nghệ thông tin & truyền thông"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Khoa học Máy tính là một trong những ngành học quan trọng tại các trường đại học đào tạo về công nghệ thông tin (CNTT) nói riêng và kỹ thuật nói chung. Đây là ngành học dành cho các bạn đam mê nghiên cứu chuyên sâu về CNTT, khả năng tính toán của hệ thống máy tính, trí thông minh nhân tạo, học máy, đồ hoạ và thị giác máy tính,… rất phù hợp các nhu cầu về nguồn nhân lực cho cuộc cách mạng công nghệ 4.0. Chương trình nhằm đào tạo kỹ sư có kiến thức cốt lõi ngành Khoa học máy tính: kiến trúc máy tính, hệ điều hành, ngôn ngữ lập trình phần mềm và phần cứng và các kiến thức chuyên sâu về: trí tuệ nhân tạo, học máy, máy học ứng dụng, khai thác dữ liệu, học sâu, hệ thống hỏi đáp; đồ hoạ, lập trình trò chơi, xử lý ảnh, thị giác máy tính. Sinh viên sau khi ra trường có khả năng tư duy phát triển từ lý thuyết đến việc xây dựng hệ thống thông minh, có khả năng ứng dụng các kết quả nghiên cứu vào thực tiễn cũng như đủ kiến thức và kỹ năng cần thiết để thích ứng với sự thay đổi của công nghệ mới trong lĩnh vực khoa học máy tính và CNTT.",
+    "viTriViecLam": [
+      "Chuyên viên phân tích dữ liệu;",
+      "Chuyên viên đồ hoạ và thị giác máy tính",
+      "Lập trình viên, quản lý dự án;",
+      "Chuyên viên thiết kế, phát triển phần mềm;",
+      "Chuyên viên nghiên cứu và phát triển các công nghệ tri thức (sản phẩm mang tính thông minh), xử lý hình ảnh, thị giác máy tính, thực tế ảo, lập trình trò chơi.",
+      "Giảng viên, nghiên cứu viên"
+    ],
+    "noiLamViec": [
+      "Công ty sản xuất, gia công, bảo trì phần mềm;",
+      "Công ty tư vấn - thiết kế các giải pháp công nghệ thông tin;",
+      "Cơ quan Nhà nước có liên quan đến lĩnh vực công nghệ thông tin;",
+      "Trường đại học, cao đẳng, trung cấp, … đào tạo về công nghệ thông tin."
+    ],
+    "file": "KhoaHocMayTinh.vue"
+  },
+  {
+    "tenNganh": "Kinh doanh quốc tế",
+    "maNganh": "7340120",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Kinh tế"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Ngành Kinh doanh quốc tế đào tạo sinh viên có đầy đủ kiến thức, kỹ năng, và thái độ làm việc chuyên nghiệp sẵn sàng hội nhập kinh tế quốc tế. Sinh viên được trang bị vững kiến thức chuyên môn sâu về hoạch định, tổ chức và quản lý hoạt động kinh doanh quốc tế và chiến lược, đặc biệt là cho loại hình công ty đa quốc gia, bán hàng và tiếp thị quốc tế, tài chính quốc tế, và kinh doanh thương mại điện tử. Thêm vào đó, sinh viên còn được trang bị kiến thức và kỹ năng thực hiện đầy đủ các nghiệp vụ về xuất nhập khẩu, logistic, bảo hiểm ngoại thương, đàm phán, và thanh toán quốc tế. Có khả năng sử dụng tốt tiếng Anh trong lĩnh vực ngoại thương.",
+    "viTriViecLam": [
+      "Nhân viên/quản lý phòng kinh doanh xuất nhập khẩu/thương mại của các doanh nghiệp, đặc biệt là doanh nghiệp có vốn đầu tư nước ngoài;",
+      "Quản lý và giám sát bán hàng trong các công ty đa quốc gia/doanh nghiệp có vốn đầu tư nước ngoài;",
+      "Nhân viên/quản lý phòng thanh toán quốc tế của các ngân hàng thương mại;",
+      "Nhân viên/quản lý tại các công ty liên quan đến logistics (vận tải biển, các công ty giao nhận hàng hóa);",
+      "Chuyên viên các cơ quan quản lý nhà nước, chẳng hạn như Sở công thương, Sở kế hoạch và đầu tư, Ban quản lý khu chế xuất khu công nghiệp, Phòng thương mại công nghiệp Việt Nam, Hải quan và cảng vụ;",
+      "Nghiên cứu viên và giảng viên tại các trường cao đẳng, đại học, trung học chuyên nghiệp, và các cơ sở nghiên cứu;",
+      "Nhân viên làm việc cho các tổ chức chính phủ và phi chính phủ (NGOs)."
+    ],
+    "noiLamViec": [
+      "Các doanh nghiệp có hoạt động kinh doanh xuất nhập khẩu hàng hóa;",
+      "Các doanh nghiệp logistics (cảng, giao nhận hàng hóa, bảo hiểm, vận tải, giao nhận hàng hóa);",
+      "Các ngân hàng thương mại;",
+      "Các doanh nghiệp có vốn đầu tư nước ngoài, đặc biệt là các công ty đa quốc gia;",
+      "Các tổ chức chính phủ và phi chính phủ (NGOs);",
+      "Các cơ quan quản lý nhà nước có liên quan đến hoạt động xuất nhập khẩu và đầu tư nước ngoài như: Sở công thương, Sở kế hoạch và đầu tư, Ban quản lý khu chế xuất khu công nghiệp, Phòng thương mại công nghiệp Việt Nam, Hải quan, cảng vụ;",
+      "Các trường đại học, cao đẳng và các viện nghiên cứu."
+    ],
+    "file": "KinhDoanhQuocTe.vue"
+  },
+  {
+    "tenNganh": "Kỹ thuật môi trường",
+    "maNganh": "7520320",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Môi trường và Tài nguyên Thiên nhiên"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Ngành Kỹ thuật Môi trường trang bị kiến thức cho người học về kỹ thuật và công nghệ ngăn ngừa, giảm thiểu ô nhiễm môi trường; xử lý ô nhiễm môi trường; thu hồi, tái chế, tái sử dụng chất thải; các giải pháp quản lý an toàn và vệ sinh công nghiệp, góp phần bảo vệ môi trường và phục vụ phát triển bền vững. Sinh viên ngành Kỹ thuật Môi trường được đào tạo chuyên môn về: tính toán và thiết kế các quy trình công nghệ xử lý môi trường (nước cấp, nước thải, chất thải, khí thải,…); quản lí và vận hành các hệ thống công trình xử lý môi trường; đề xuất các giải pháp và các công nghệ thích ứng cho những dự án gây ảnh hưởng tiêu cực đến môi trường; đo đạc và giám sát các nguồn thải có khả năng gây ô nhiễm…",
+    "viTriViecLam": [
+      "Kỹ sư tại các nhà máy, xí nghiệp và khu công nghiệp; tại các công ty kinh doanh có liên quan đến lĩnh vực tư vấn, thiết kế và thi công công trình xử lý môi trường, đánh giá tác động môi trường, bảo vệ và cải tạo chất lượng môi trường;",
+      "Chuyên viên chuyên trách tại các cơ quan thuộc các sở ban ngành của các tỉnh, thành phố; quận/ huyện, xã/phường, các ban quản lý dự án;",
+      "Giảng viên, nghiên cứu viên về lĩnh vực Kỹ thuật môi trường;",
+      "Tự tổ chức sản xuất kinh doanh, phát triển ra thị trường các sản phẩm xử lý môi trường, sản phẩm thân thiện môi trường,…;",
+      "Giảng dạy hoặc học lên trình độ cao hơn."
+    ],
+    "noiLamViec": [
+      "Các doanh nghiệp, công ty tư vấn môi trường, tư vấn xây dựng, tư vấn đầu tư sản xuất…;",
+      "Các dự án xây dựng công trình xử lý, cải tạo môi trường và dự án đầu tư phát triển;",
+      "Các nhà máy, phân xưởng; các Khu - Cụm công nghiệp;",
+      "Các sở ban ngành như: Sở Tài nguyên & Môi trường, Sở Công thương, Sở Xây dựng, Phòng môi trường Quận/Huyện, Ban quản lý các dự án;",
+      "Các Viện - Trường đại học có giảng dạy và nghiên cứu công nghệ, kỹ thuật môi trường,…"
+    ],
+    "file": "KyThuatMoiTruong.vue"
+  },
+  {
+    "tenNganh": "Kỹ thuật phần mềm",
+    "maNganh": "7480103",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Công nghệ thông tin & truyền thông"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Ngành Kỹ thuật phần mềm (KTPM) đào tạo sinh viên trở thành kỹ sư KTMP chất lượng cao, có sức khỏe, đạo đức và trách nhiệm với xã hội, có kiến thức và kỹ năng chuyên môn để phát triển các hệ thống phần mềm; có thể đảm nhận vị trí nghề nghiệp trong lĩnh vực công nghệ phần mềm; có khả năng học tập suốt đời và khả năng làm việc trong lĩnh vực phần mềm trong và ngoài nước. Sinh viên được học kiến thức và kỹ năng chung dành cho người kỹ sư công nghệ thông tin; kiến thức chuyên sâu về phân tích, thiết kế, cài đặt, kiểm thử, đảm bảo chất lượng, bảo trì phần mềm và quản lý dự án phần mềm; kiến thức nền tảng để phát triển hoàn chỉnh các hệ thống phần mềm theo một trong ba hướng: phần mềm nhúng và IoT, phần mềm nghiệp vụ, hoặc phần mềm mô phỏng.",
+    "viTriViecLam": [
+      "Kỹ sư phát triển phần mềm",
+      "Kỹ sư kiểm thử phần mềm",
+      "Kỹ sư phân tích và thiết kế phần mềm",
+      "Kỹ sư bảo trì phần mềm",
+      "Trưởng nhóm lập trình, trưởng dự án và các vị trí điều hành các cấp trong dự án phần mềm",
+      "Chủ doanh nghiệp sản xuất phần mềm;",
+      "Cán bộ nghiên cứu và ứng dụng Công nghệ thông tin",
+      "Giảng viên các trường đại học, cao đẳng, trung cấp đào tạo về Công nghệ thông tin."
+    ],
+    "noiLamViec": [
+      "Công ty chuyên về thiết kế, phát triển phần mềm,",
+      "Công ty tư vấn, thiết kế giải pháp công nghệ thông tin cho doanh nghiệp,",
+      "Các cơ quan, đơn vị nhà nước có liên quan đến vận hành và phát triển ứng dụng CNTT.",
+      "Các viện nghiên cứu và chuyển giao công nghệ thuộc lĩnh vực CNTT",
+      "Trường đại học, cao đẳng, trung học phổ thông, trung học chuyên nghiệp và dạy nghề."
+    ],
+    "file": "KyThuatPhanMem.vue"
+  },
+  {
+    "tenNganh": "Mạng máy tính và truyền thông dữ liệu",
+    "maNganh": "7480102",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Công nghệ thông tin & truyền thông"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Lý, Tin học (TH1)",
+          "Toán, Tiếng Anh, Tin học (TH2)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Ngành Mạng máy tính và Truyền thông dữ liệu là một ngành nghiên cứu những nguyên lý kết nối các máy tính thành mạng; cách thiết kế, xây dựng một hệ thống mạng từ mạng nội bộ cho đến mạng diện rộng có kết nối toàn cầu; sự trao đổi thông tin, dữ liệu giữa các thành phần trên mạng; phát triển ứng dụng mạng, ứng dụng Web, xử lý dữ liệu lớn và tính toán hiệu năng cao. Chương trình nhằm đào tạo kỹ sư có kiến thức cơ sở lý thuyết, toán và khoa học được sử dụng trong ngành mạng máy tính và truyền thông dữ liệu. Sinh viên được trang bị các kiến thức cơ sở, chuyên sâu của ngành mạng máy tính và truyền thông dữ liệu, khả năng phân tích, thiết kế, đề xuất giải pháp, đáp ứng nhu cầu của một tổ chức hay cá nhân, phát triển ứng dụng mạng, phần mềm trên thiết bị di động, phần mềm tự do nguồn mở, ứng dụng web, dịch vụ web, mô hình client-server, tính toán lưới, điện toán đám mây, dữ liệu lớn, giải thuật song song, phân tán và internet kết nối vạn vật. Sinh viên có khả năng giao tiếp bằng Anh ngữ thông thường và chuyên ngành.",
+    "viTriViecLam": [
+      "Kỹ sư quản trị mạng máy tính;",
+      "Chuyên viên tư vấn, phân tích, thiết kế, xây dựng, bảo trì các hệ thống mạng;",
+      "Lập trình viên tại các công ty phần mềm;",
+      "Giảng viên ở các trường đại học, cao đẳng."
+    ],
+    "noiLamViec": [
+      "Công ty, doanh nghiệp, tập đoàn tư nhân về lĩnh vực Công nghệ thông tin, Mạng máy tính và truyền thông dữ liệu;",
+      "Cơ quan, doanh nghiệp nhà nước;",
+      "Trường đại học, cao đẳng, trung cấp."
+    ],
+    "file": "MangMayTinhTruyenThong.vue"
+  },
+  {
+    "tenNganh": "Marketing",
+    "maNganh": "7340115",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Kinh tế"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Chương trình ngành Marketing được xây dựng nhằm đào tạo cử nhân kinh tế chuyên ngành Marketing. Sau khi hoàn thành chương trình này, người học có được phẩm chất đạo đức, ý thức tổ chức kỷ luật, năng lực chuyên môn, kiến thức quản lý trong lĩnh vực marketing và yêu ngành nghề. Ngoài ra, người học sẽ có khả năng và ý chí lập thân, lập nghiệp với tư duy năng động, sáng tạo trong các hoạt động chuyên môn tại các doanh nghiệp và địa phương, góp phần đóng góp phát triển địa phương, khu vực và cả nước.\n\nNgười học sẽ được học các môn về lĩnh vực marketing và quản trị như nghiên cứu thị trường, xây dựng - tổ chức - thực hiện các kế hoạch chiến lược marketing, quản trị quan hệ khách hàng, quản trị thương hiệu cho doanh nghiệp, quản trị bán hàng, hành vi khách hàng, hành vi tổ chức, phân tích hoạt động kinh doanh",
+    "viTriViecLam": [
+      "Nhân viên kinh doanh, nghiên cứu thị trường, chăm sóc khách hàng, quan hệ công chúng, nghiên cứu và phát triển sản phẩm, chuyên viên Marketing, tổ chức sự kiện, quản trị thương hiệu, quản trị kênh phân phối, giám sát bán hàng khu vực tỉnh hoặc vùng trong các doanh nghiệp;",
+      "Các vị trí Quản lý/Lãnh đạo như Trưởng/Phó Phòng Marketing, giám đốc bán hàng, giám đốc marketing, giám đốc thương hiệu, giám đốc kinh doanh trong các doanh nghiệp;",
+      "Nghiên cứu viên, giảng viên tại các cơ sở nghiên cứu, viện trường có hoạt động nghiên cứu và đào tạo liên quan đến lĩnh vực marketing;",
+      "Tự tạo lập doanh nghiệp hoặc tự tìm kiếm cơ hội kinh doanh riêng cho bản thân và làm chủ khởi nghiệp sáng tạo;"
+    ],
+    "noiLamViec": [
+      "Các doanh nghiệp trong các tất cả các lĩnh vực như sản xuất, kinh doanh, thương mại - dịch vụ;",
+      "Các công ty quảng cáo, công ty truyền thông, công ty nghiên cứu thị trường;",
+      "Các viện, trường đại học, cao đẳng, trung cấp đào tạo tạo liên quan đến lĩnh vực Marketing."
+    ],
+    "file": "Marketing.vue"
+  },
+  {
+    "tenNganh": "Nông học",
+    "maNganh": "7620109",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Nông nghiệp"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)",
+          "Toán, Lý, Hóa (A00)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)",
+          "Toán, Lý, Hóa (A00)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)",
+          "Toán, Lý, Hóa (A00)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Ngành Nông học đào tạo kỹ sư có chuyên môn ở 3 lĩnh vực trồng trọt, chăn nuôi và thủy sản, có khả năng thực hành và huấn luyện các kỹ thuật canh tác cây trồng, kỹ thuật chăn nuôi và nuôi trồng thủy sản; có khả năng tổ chức và quản lý hệ thống nông nghiệp phục vụ cho sự phát triển nông nghiệp bền vững. Ngành Nông học trang bị cho người học những kiến thức chuyên môn và kỹ năng chung của quá trình sản xuất và chọn giống cây trồng; các nguyên lý về kỹ thuật chăn nuôi thú y và nuôi trồng thủy sản; biện pháp quản lý dịch hại cây trồng, bệnh trên vật nuôi và thủy sản; các kiến thức về hệ thống sản xuất và phát triển nông thôn, quản lý nông trại tổng hợp; các kỹ năng áp dụng công nghệ mới trong canh tác cây trồng, sản xuất vật nuôi và nuôi trồng thủy sản.",
+    "viTriViecLam": [
+      "Kỹ sư Nông học, Kỹ sư phụ trách/chỉ đạo sản xuất",
+      "Kỹ thuật viên, Cán bộ kỹ thuật, Cán bộ quản lý",
+      "Nhân viên kinh doanh/marketing/quảng bá ngành hàng",
+      "Nghiên cứu viên, chuyên viên",
+      "Giảng viên các trường Đại học, Cao đẳng, Trung cấp"
+    ],
+    "noiLamViec": [
+      "Cơ quan nhà nước có liên quan đến Nông nghiệp như Sở (Phòng, Ban) Nông nghiệp và Phát triền nông thôn, Trung tâm (Trạm) Khuyến nông, Sở Khoa học và Công nghệ, Trung tâm nghiên cứu và chuyển giao KHHT.",
+      "Cơ quan nhà nước ở các lĩnh vực chuyên môn riêng như Chi cục Bảo vệ thực vật, Chi cục Thú y, Chi cục Thủy sản, Chi cục Phát triển nông thôn, Chi cục Quản lý chất lượng nông lâm thủy sản, Trung tâm sản xuất giống cây trồng, vật nuôi và thủy sản.",
+      "Các Công ty sản xuất kinh doanh dịch vụ sản phẩm phân bón và thuốc trừ dịch hại cây trồng, thức ăn vật nuôi và thủy sản, thuốc thú y, thuốc trừ bệnh thủy sản...",
+      "Viện nghiên cứu, Trường Đại học, Cao đẳng, Trung cấp và các trung tâm đào tạo về lĩnh vực nông nghiệp (có đáp ứng yêu cầu về nghiệp vụ sư phạm).",
+      "Các Tổ chức/dự án hoạt động liên quan đến nông nghiệp."
+    ],
+    "file": "NongHoc.vue"
+  },
+  {
+    "tenNganh": "Nuôi trồng thủy sản",
+    "maNganh": "7620301",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Thủy Sản"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Ngành Nuôi trồng Thủy sản (NTTS) đào tạo Kỹ sư NTTS có khả năng tổ chức sản xuất và vận hành (i) cơ sở nhân giống, nuôi trồng các loài động, thực vật thủy sinh cả trong nước ngọt, lợ và mặn; hay (ii) cơ sở dịch vụ, kinh doanh và chế biến thủy sản. Sinh viên được học các kiến thức chuyên môn từ định danh, phân loại đến đặc điểm sinh học, vòng đời và môi trường sống của động, thực vật thủy sinh; được trang bị các kỹ thuật và cơ hội rèn luyện tay nghề về nhân giống và kỹ thuật nuôi (cá, tôm, thân mềm, thủy đặc sản…), nhu cầu dinh dưỡng và chế biến thức ăn cho tôm cá, biết quản lý sức khỏe vật nuôi và chất lượng nước ao nuôi, sử dụng được trang thiết bị hiện đại trong nuôi thủy sản.",
+    "viTriViecLam": [
+      "Phụ trách kỹ thuật và quản lý các trang trai sản xuất giống và nuôi thủy sản;",
+      "Quản lý vùng nuôi, cung ứng nguyên liệu cho các nhà máy chế biến thủy sản xuất khẩu;",
+      "Phụ trách kỹ thuật nuôi trong các nghiên cứu phát triển sản phẩm của các công ty chế biến thuốc và thức ăn thủy sản;",
+      "Phụ trách kỹ thuật phân tích trong các phòng thí nghiệm chất lượng nước; khảo nghiệm thử nghiệm giống nuôi và sản phẩm cung ứng cho nuôi trồng thủy sản;",
+      "Chủ cơ sở sản xuất và kinh doanh thủy sản;",
+      "Giảng dạy trong các cơ sở đào tạo thủy sản (đại học, cao đẳng, trung cấp, trường nghề…)"
+    ],
+    "noiLamViec": [
+      "Các cơ quan quản lý ngành thủy sản;",
+      "Các cơ sở đào tạo và nghiên cứu về thủy sản; các dự án thủy sản trong nước và quốc tế;",
+      "Các Công ty, doanh nghiệp/cơ sở sản xuất và cung cấp dịch vụ thủy sản."
+    ],
+    "file": "NuoiTrongThuySan.vue"
+  },
+  {
+    "tenNganh": "Quản lý tài nguyên và môi trường",
+    "maNganh": "7850101",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Môi trường và Tài nguyên Thiên nhiên"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Ngành quản lý tài nguyên và môi trường là ngành đa lĩnh vực, tập trung về quản lý tài nguyên khoáng sản, đất, nước, không khí, rừng, đa dạng sinh học, năng lượng…và quản lý môi trường, quy hoạch môi trường, luật và chính sách tài nguyên môi trường, đánh giá tác động môi trường, quản lý chất thải. Trang bị cho sinh viên kiến thức và phương pháp để nghiên cứu, quy hoạch, quản lý thiết kế, xây dựng, thực hiện dự án về tài nguyên và môi trường trong các lĩnh vực: bảo tồn đa dạng sinh học; Đánh giá chất lượng môi trường; Quản lý và xử lý nước thải, chất thải rắn; Đánh giá tác động môi trường; Quy hoạch sử dụng tài nguyên bền vững…",
+    "viTriViecLam": [
+      "Kỹ sư môi trường phụ trách giám sát, quản lý môi trường, an toàn lao động và môi trường;",
+      "Chuyên viên tư vấn quản lý tài nguyên và môi trường; đánh giá tác động môi trường, giám sát, quan trắc môi trường, tư vấn pháp luật về môi trường, thanh tra môi trường, cảng sát môi trường;",
+      "Giảng dạy và nghiên cứu về lĩnh vực tài nguyên môi trường;",
+      "Nhân viên kỹ thuật về lĩnh vực môi trường;",
+      "Tự tổ chức và phát triển kinh doanh các sản phẩm lĩnh vực bảo vệ môi trường, tiết kiệm năng lượng, năng lượng tái tạo,…;",
+      "Giảng dạy hoặc học lên trình độ cao hơn."
+    ],
+    "noiLamViec": [
+      "Ủy ban nhân dân các cấp;",
+      "Sở Tài nguyên và Môi trường, Sở Nông nghiệp và Phát triển Nông thôn, Sở Khoa học – Công nghệ;",
+      "Phòng Tài nguyên và Môi trường, Phòng Nông nghiệp và Phát triển Nông thôn;",
+      "Các trung tâm tư vấn về môi trường, trung tâm nước sạch và vệ sinh môi trường, Trung tâm quan trắc môi trường, Công ty cấp thoát nước, Trung tâm tư vấn giải pháp môi trường;",
+      "Các Viện, Trường có nghiên cứu và giảng dạy về tài nguyên và môi trường;",
+      "Các nhà máy, xí nghiệp, khu công nghiệp, khu chế xuất;",
+      "Các đơn vị, công ty tư vấn kinh doanh dịch vụ môi trường;",
+      "Các tổ chức quốc tế, tổ chức chính phủ và phi chính phủ hoạt động trong lĩnh vực môi trường và tài nguyên thiên nhiên."
+    ],
+    "file": "QuanLyTaiNguyenMoiTruong.vue"
+  },
+  {
+    "tenNganh": "Quản lý thủy sản",
+    "maNganh": "7620305",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Thủy sản"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Hóa, Sinh (B00)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Ngành Quản lý thủy sản đào tạo kỹ sư có kiến thức về kỹ thuật phát triển nuôi trồng thủy sản; khai thác và quản lý nguồn lợi thủy sản; sản xuất, kinh doanh và dịch vụ thủy sản nhằm phát triển ngành thủy sản một cách hiệu quả và bền vững. Đặc biệt nhằm giúp cho người học khả năng tổ chức trang trại sản xuất, vận hành doanh nghiệp thủy sản một cách hiệu quả kinh tế. Ngoài kiến thức đại cương, người học được trang bị kiến thức ngành gồm: i) kiến thức cơ sở ngành về ngư nghiệp đại cương, đa dạng nguồn lợi thủy sản, kinh tế học và kinh tế tài nguyên, phương pháp nghiên cứu khoa học, phân tích chính sách, chuỗi cung ứng thủy sản và chuỗi giá trị thủy sản; ii) kiến thức chuyên ngành về quản lý và khai thác bền vững nguồn lợi thủy sản, phát triển nuôi trồng thủy sản, kinh tế sản xuất và thương hiệu sản phẩm thủy sản, quản trị doanh nghiệp thủy sản, marketing xuất nhập khẩu thủy sản, báo tình hình phát triển thủy sản.",
+    "viTriViecLam": [
+      "Kỹ sư thủy sản tại các cơ quan quản lý ngành thủy sản;",
+      "Chuyên viên/nghiên cứu viên/giảng viên ở các cơ sở đào tạo, nghiên cứu và qui hoạch phát triển thủy sản;",
+      "Kỹ sư thủy sản phụ trách các doanh nghiệp/cơ sở sản xuất và cung cấp dịch vụ thủy sản;",
+      "Chủ trang trại/hợp tác xã/giám đốc kinh doanh cho các cơ sở thủy sản;",
+      "Chuyên viên quản lý thị trường chuỗi cung ứng các ngành hàng thủy sản."
+    ],
+    "noiLamViec": [
+      "Các ban ngành trực thuộc các Sở Nông nghiệp và Phát triển nông thôn;",
+      "Các cơ sở đào tạo, nghiên cứu và qui hoạch phát triển thủy sản;",
+      "Các dự án phát triển thủy sản trong nước và quốc tế;",
+      "Các doanh nghiệp/cơ sở sản xuất và cung cấp dịch vụ thủy sản;",
+      "Các trang trại/hợp tác xã sản xuất và kinh doanh thủy sản;",
+      "Các tổ chức hiệp hội thủy sản, tài nguyên môi trường biển, các khu bảo tồn thủy sản."
+    ],
+    "file": "QuanLyThuySan.vue"
+  },
+  {
+    "tenNganh": "Quản trị kinh doanh",
+    "maNganh": "7340101",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Kinh tế"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "mucTieuDaoTao": "Với mục tiêu đào tạo sinh viên trở thành các nhà quản lý, nhà lãnh đạo tương lai của các công ty/doanh nghiệp/tập đoàn kinh tế, chương trình đào tạo ngành Quản trị kinh doanh trang bị cho sinh viên các kiến thức về quản trị kinh doanh hiện đại và các kỹ năng cần thiết để quản lý toàn diện và phát triển công ty/doanh nghiệp/tập đoàn kinh tế. Sự gia tăng của số lượng doanh nghiệp theo sự phát triển của nền kinh tế thúc đẩy sự gia tăng nhu cầu sử dụng lao động có trình độ cử nhân Quản trị kinh doanh. Về chương trình học, ngành Quản trị kinh doanh tại Trường Đại học Cần Thơ cung cấp các kiến thức nền tảng về quản trị như quản trị nhân lực, quản trị tài chính, quản trị sản xuất, quản trị marketing, quản trị chiến lược, tâm lý quản lý và các kỹ năng nghề nghiệp như giao tiếp, tư duy, giải quyết vấn đề, quản trị sự thay đổi, phân tích môi trường kinh doanh. Đặc biệt, sinh viên theo học ngành Quản trị kinh doanh còn được tạo điều kiện tiếp cận thực tiễn thông qua các hoạt động kiến tập và thực tập thực tế tại các doanh nghiệp cũng như được hướng dẫn sử dụng phần mềm mô phỏng tình huống trong kinh doanh để thực hành việc ra các quyết định kinh doanh ngay tại Phòng mô phỏng của Trường.",
+    "viTriViecLam": [
+      "Chuyên viên tại các phòng bộ phận chức năng như kinh doanh, kế hoạch, sản xuất, marketing, phát triển thị trường, hỗ trợ và giao dịch khách hàng, … trong các công ty/doanh nghiệp/tập đoàn kinh tế;",
+      "Tự tạo việc làm (tự lập doanh nghiệp, khởi nghiệp sáng tạo hoặc tự tìm kiếm cơ hội kinh doanh riêng cho bản thân như phân tích, dự báo và tư vấn kinh doanh,…);",
+      "Nghiên cứu viên tại các viện, trung tâm nghiên cứu, các cơ sở đào tạo hoặc cơ quan hoạch định chính sách kinh doanh;",
+      "Thăng tiến đảm nhận vị trí quản lý, giám đốc (hội đồng quản trị, giám đốc, giám đốc điều hành, …) hoặc chuyên gia cao cấp trong kinh doanh."
+    ],
+    "noiLamViec": [
+      "Công ty, doanh nghiệp, tập đoàn kinh tế tư nhân;",
+      "Công ty, doanh nghiệp, tập đoàn kinh tế nhà nước;",
+      "Công ty, doanh nghiệp, tập đoàn kinh tế nước ngoài;",
+      "Cơ quan nhà nước, cơ sở đào tạo và nghiên cứu (viện, trường, trung tâm) có liên quan đến kinh tế."
+    ],
+    "file": "QuanTriKinhDoanh.vue"
+  },
+  {
+    "tenNganh": "Sư phạm Ngữ văn",
+    "maNganh": "7140217",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Sư phạm"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Văn, Sử, Địa (C00)",
+          "Văn, Sử, Tiếng Anh (D14)",
+          "Văn, Địa, Tiếng Anh (D15)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Văn, Sử, Địa (C00)",
+          "Văn, Sử, Tiếng Anh (D14)",
+          "Văn, Địa, Tiếng Anh (D15)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm V-SAT (Phương thức 4)",
+        "toHop": [
+          "Văn, Sử, Địa (C00)",
+          "Văn, Sử, Tiếng Anh (D14)",
+          "Văn, Địa, Tiếng Anh (D15)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Chương trình đào tạo ngành Sư phạm Ngữ Văn đào tạo sinh viên trở thành giáo viên có năng lực chuyên môn nghiệp vụ và phẩm chất đạo đức nghề nghiệp, đáp ứng chuẩn nghề nghiệp giáo viên hiện hành để giảng dạy môn Ngữ văn trong các trường phổ thông; có khả năng làm công tác tư vấn, nghiên cứu, quản lý ở các trường học, cơ sở đào tạo, các cơ sở quản lý giáo dục; có khả năng tự học và tham gia các chương trình đào tạo sau đại học trong và ngoài nước. Sinh viên được học tập kiến thức, rèn luyện nghiệp vụ sư phạm (NVSP) và giáo dục đạo đức của người giáo viên Ngữ văn cấp THPT bao gồm: kiến thức giáo dục đại cương, kiến thức cơ sở ngành và kiến thức chuyên ngành (Văn học Việt Nam; Văn học nước ngoài; Ngôn ngữ Tiếng Việt); các nội dung về rèn luyện NVSP; Kiến tập sư phạm, Thực tập sư phạm tại các trường phổ thông; thực tế ngoài trường (Miền Trung - Tây Nguyên).",
+    "viTriViecLam": [
+      "Giáo viên, giảng viên tại các các trường trung học cơ sở, trung học phổ thông, các trường trung học chuyên nghiệp và dạy nghề, các trường cao đẳng và đại học;",
+      "Nghiên cứu viên tại các trung tâm, các viện nghiên cứu giáo dục;",
+      "Chuyên viên và cán bộ quản lý ở các trường học, các phòng giáo dục, các sở giáo dục;",
+      "Nhân viên các cơ quan hành chính và các công ty, doanh nghiệp."
+    ],
+    "noiLamViec": [
+      "Các trường THPT, THCS; các trường trung học chuyên nghiệp và dạy nghề, các trường cao đẳng và đại học;",
+      "Các trung tâm, các viện nghiên cứu giáo dục;",
+      "Các cơ quan hành chính nhà nước: các Sở, Phòng GD&ĐT; Sở, Phòng Văn hóa và du lịch, Viện bảo tàng, Ủy ban nhân dân tỉnh, huyện, xã,…;",
+      "Các công ty, doanh nghiệp: du lịch, lữ hành, …;",
+      "Các báo, đài trung ương và địa phương."
+    ],
+    "file": "SuPhamNguVan.vue"
+  },
+  {
+    "tenNganh": "Sư phạm Tiếng Anh",
+    "maNganh": "7140231",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Sư phạm"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Văn, Toán, Tiếng Anh (D01)",
+          "Văn, Sử, Tiếng Anh (D14)",
+          "Văn, Địa, Tiếng Anh (D15)",
+          "Văn, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tiếng Anh (D66)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Văn, Toán, Tiếng Anh (D01)",
+          "Văn, Sử, Tiếng Anh (D14)",
+          "Văn, Địa, Tiếng Anh (D15)",
+          "Văn, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tiếng Anh (D66)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm V-SAT (Phương thức 4)",
+        "toHop": [
+          "Văn, Toán, Tiếng Anh (D01)",
+          "Văn, Sử, Tiếng Anh (D14)",
+          "Văn, Địa, Tiếng Anh (D15)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Ngành Sư phạm Tiếng Anh đào tạo sinh viên trở thành giáo viên Tiếng Anh có kiến thức và kỹ năng chuyên môn tiếng Anh đạt chuẩn qui định, có kiến thức và kỹ năng sư phạm tốt, có đủ kiến thức để học lên bậc thạc sĩ ngành lý luận và phương pháp dạy học, ngành giáo dục, quản lý giáo dục ở trong và ngoài nước và các ngành khác có liên quan đến chuyên ngành được đào tạo. Sinh viên được rèn luyện kỹ năng tiếng Anh theo chuẩn qui định, các kỹ năng dạy học tiếng Anh ở các cấp, kiến thức về ngôn ngữ và ngôn ngữ học, sử dụng công nghệ trong giảng dạy, kỹ năng chuyên nghiệp trong môi trường giáo dục; kiến thức chuyên sâu về dạy tiếng Anh cho trẻ, tiếng Anh chuyên ngành.",
+    "viTriViecLam": [
+      "Giáo viên tiếng Anh phổ thông, trung cấp, cao đẳng và đại học, trung tâm ngoại ngữ;",
+      "Chuyên viên tiếng Anh cho các phòng, sở giáo dục;",
+      "Vị trí thư ký cho các văn phòng Sở, Ban ngành,…"
+    ],
+    "noiLamViec": [
+      "Các trường phổ thông;",
+      "Các trung tâm ngoại ngữ, dịch thuật;",
+      "Các Ban ngành, sở giáo dục."
+    ],
+    "file": "SuPhamTiengAnh.vue"
+  },
+  {
+    "tenNganh": "Sư Phạm Tin học",
+    "maNganh": "7140210",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Sư phạm"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Hóa, Tiếng Anh (D07)",
+          "Toán, Ngữ Văn, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Hóa, Tiếng Anh (D07)",
+          "Toán, Ngữ Văn, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Hóa, Tiếng Anh (D07)",
+          "Toán, Ngữ Văn, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Tin học là một ngành khoa học chuyên nghiên cứu quá trình tự động hóa việc tổ chức, lưu trữ và xử lý thông tin của một hệ thống máy tính từ cụ thể đến trừu tượng, mô phỏng, biến đổi và tái tạo thông tin. Chuyên ngành Sư phạm Tin học là ngành đào tạo các cử nhân có trình độ chuyên môn, nghiệp vụ, phẩm chất đạo đức nghề nghiệp để giảng dạy môn Tin ở các cấp học phổ thông, các trường sư phạm, các khoa sư phạm Tin học của các trường cao đẳng, đại học ở Việt Nam. Chương trình đào tạo ngành Sư phạm Tin học sẽ trang bị các kiến thức cơ bản về khoa học máy tính, ngôn ngữ lập trình và cơ sở dữ liệu. Bên cạnh kiến thức chuyên ngành, sinh viên được trang bị kiến thức tâm lý học, giáo dục học và phương pháp dạy học Tin học để trở thành người giáo viên Tin học trong hệ thống giáo dục phổ thông.",
+    "viTriViecLam": [
+      "Giảng dạy tại các trường tiểu học, các trường trung học, các trường trung học chuyên nghiệp và dạy nghề, các trường cao đẳng và đại học;",
+      "Nghiên cứu tại các trung tâm, viện nghiên cứu Tin học hoặc Công nghệ Thông tin;",
+      "Chuyên viên và quản lý ở các trường học, các phòng giáo dục, các cơ sở giáo dục và các cơ sở sản xuất, kinh doanh."
+    ],
+    "noiLamViec": [
+      "Các trường tiểu học, trung học cơ sở, trung học phổ thông, trung tâm giáo dục thường xuyên và dạy nghề;",
+      "Công ty, doanh nghiệp tư nhân và nhà nước;",
+      "Các viện nghiên cứu về Tin học."
+    ],
+    "file": "SuPhamTinHoc.vue"
+  },
+  {
+    "tenNganh": "Sư phạm Toán học",
+    "maNganh": "7140209",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Sư phạm"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng, ưu tiên xét tuyển (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Toán, Sinh, Tiếng Anh (B08)",
+          "Toán, Hóa, Tiếng Anh (D07)"
+        ],
+        "ghiChu": ""
+      }
+    ],
+    "gioiThieu": "Toán học là môn khoa học nghiên cứu về các số, không gian, các phép biến đổi, các cấu trúc trừu tượng định nghĩa từ các tiên đề, bằng cách sử dụng lý luận logic và các ký hiệu toán học. Chuyên ngành Sư phạm Toán học là ngành đào tạo giáo viên bậc phổ thông có kiến thức về khoa học cơ bản, khoa học giáo dục, có năng lực sư phạm đáp ứng được yêu cầu của sự nghiệp đổi mới giáo dục, đào tạo hiện nay ở nước ta; đồng thời có thể học tiếp lên bậc cao hơn và tự học để hoàn thiện và nâng cao năng lực làm việc. Chương trình đào tạo ngành Sư phạm Toán học, sinh viên có kiến thức lý thuyết chuyên sâu trong lĩnh vực đào tạo; nắm vững kỹ thuật và có kiến thức thực tế để có thể giải quyết các công việc phức tạp; tích luỹ được kiến thức nền tảng về các nguyên lý cơ bản, các quy luật tự nhiên và xã hội trong lĩnh vực được đào tạo để phát triển kiến thức mới và có thể tiếp tục học tập ở trình độ cao hơn; có kiến thức quản lý, điều hành, kiến thức pháp luật và bảo vệ môi trường liên quan đến lĩnh vực được đào tạo.",
+    "viTriViecLam": [
+      "Giáo viên giảng dạy Toán tại nhà trường phổ thông;",
+      "Giảng viên giảng dạy và nghiên cứu Toán ở các trường cao đẳng và đại học;",
+      "Công tác giảng dạy và quản lí tại các phòng giáo dục, các trung tâm giáo dục thường xuyên;",
+      "Làm công tác nghiên cứu về toán các viện, trung tâm nghiên cứu toán học."
+    ],
+    "noiLamViec": [
+      "Các trường trung học cơ sở, trung học phổ thông, trung tâm giáo dục thường xuyên và dạy nghề;",
+      "Các trường trung cấp, cao đẳng và đại học;",
+      "Các viện nghiên cứu về Toán."
+    ],
+    "file": "SuPhamToanHoc.vue"
+  },
+  {
+    "tenNganh": "Tài chính – Ngân hàng",
+    "maNganh": "7340201",
+    "thoiGianDaoTao": "4 năm",
+    "bangCap": "Cử nhân",
+    "khoa": {
+      "tenKhoa": "Kinh tế"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Hóa (C02)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Ngành Tài chính - Ngân hàng đào tạo cử nhân có chuyên môn trong lĩnh vực hoạt động kinh doanh của ngân hàng thương mại, công ty tài chính, công ty bảo hiểm; và lĩnh vực tài chính trong công ty. Ngành Tài chính - Ngân hàng trang bị cho người học những kiến thức và kỹ năng để thực hiện nhiệm vụ của chuyên viên kinh doanh ngân hàng và tài chính. Các kiến thức và kỹ năng được đào tạo trọng tâm bao gồm hoạt động của ngân hàng, thị trường chứng khoán, nghiệp vụ bảo hiểm, và các nguyên lý tài chính tiền tệ. Bên cạnh đó, người học còn được trang bị kiến thức nền tảng về kinh tế và kinh doanh như là chính sách về kinh tế, tài chính và tiền tệ; kỹ thuật phân tích và tính toán trong lĩnh vực kinh tế, tài chính và ngân hàng; ứng dụng công nghệ thông tin và ngoại ngữ trong môi trường làm việc hội nhập kinh tế quốc tế và công nghệ 4.0; cũng như các kỹ năng mềm khác như là giao tiếp, tư duy và giải quyết vấn đề, làm việc độc lập và theo nhóm.",
+    "viTriViecLam": [
+      "Chuyên viên kinh doanh và giao dịch viên tại các tổ chức tài chính;",
+      "Chuyên viên thanh toán quốc tế;",
+      "Chuyên viên phân tích và tư vấn tài chính;",
+      "Nhân viên kế toán và tài chính tại các doanh nghiệp;",
+      "Chuyên viên tại các cơ quan quản lý nhà nước liên quan đến lĩnh vực tài chính – ngân hàng như: Thuế, Kho bạc nhà nước, Hải quan, Ngân hàng Nhà nước;",
+      "Nhân viên kế toán tại các cơ quan hành chính – sự nghiệp;",
+      "Chủ đơn vị kinh doanh;",
+      "Nghiên cứu viên tại các trường đại học, cao đẳng, trung cấp, các trung tâm/viện nghiên cứu về tài chính và ngân hàng."
+    ],
+    "noiLamViec": [
+      "Các tổ chức tín dụng: ngân hàng thương mại, công ty tài chính và cho thuê tài chính, quỹ tín dụng nhân dân, tổ chức tài chính vi mô;",
+      "Công ty chứng khoán, bảo hiểm, doanh nghiệp;",
+      "Các doanh nghiệp;",
+      "Các cơ quan quản lý nhà nước liên quan đến lĩnh vực tài chính – ngân hàng như: Thuế, Kho bạc nhà nước, Hải quan, Ngân hàng Nhà nước và các cơ quan hành chính – sự nghiệp khác;",
+      "Các trường đại học, cao đẳng, trung cấp, trung tâm và viện nghiên cứu."
+    ],
+    "file": "TaiChinhNganHang.vue"
+  },
+  {
+    "tenNganh": "Truyền thông đa phương tiện",
+    "maNganh": "7320104",
+    "thoiGianDaoTao": "4,5 năm",
+    "bangCap": "Kỹ sư",
+    "khoa": {
+      "tenKhoa": "Công nghệ thông tin & truyền thông"
+    },
+    "phuongThucXetTuyen": [
+      {
+        "ten": "Tuyển thẳng (Phương thức 1)",
+        "toHop": []
+      },
+      {
+        "ten": "Xét điểm Kỳ thi tốt nghiệp THPT (Phương thức 2)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Tiếng Anh (D01)",
+          "Toán, Văn, Tin học (TH3)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm học bạ THPT (Phương thức 3)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Tiếng Anh (D01)",
+          "Toán, Văn, Tin học (TH3)"
+        ],
+        "ghiChu": ""
+      },
+      {
+        "ten": "Xét điểm thi V-SAT (Phương thức 4)",
+        "toHop": [
+          "Toán, Lý, Hóa (A00)",
+          "Toán, Lý, Tiếng Anh (A01)",
+          "Văn, Toán, Tiếng Anh (D01)"
+        ],
+        "ghiChu": "Riêng phương thức xét điểm V-SAT, không sử dụng những tổ hợp có các môn: Tiếng Pháp, Giáo dục kinh tế và pháp luật/Giáo dục công dân, Tin học, Công nghệ."
+      }
+    ],
+    "gioiThieu": "Chuyển đổi số và Truyền thông số đang là một xu hướng phát triển nổi bật nhất hiện nay. Công nghệ thông tin đã và đang trở thành công cụ không thể thiếu trong việc thiết kế và biên tập các nội dung báo điện tử, các chương trình truyền hình, các video clip quảng cáo, các phần mềm trò chơi, chương trình giải trí, mô phỏng trong lĩnh vực y tế, các nội dung giáo dục đào tạo và các lĩnh vực khác trong cuộc sống thông qua đa phương tiện. Sau khi tốt nghiệp ngành Truyền thông Đa phương tiện, sinh viên hoàn toàn tự tin với khả năng và kiến thức chuyên sâu về thiết kế và biên tập các nội dung quảng cáo, thiết kế ấn phẩm báo chí, hoạt hình 2D/3D, kỹ xảo điện ảnh; quản lý, lập kế hoạch, tổ chức và giám sát quá trình thực hiện các dự án Truyền thông đa phương tiện. Bên cạnh đó, sinh viên sử dụng thành thạo ngôn ngữ và kỹ thuật lập trình để tham gia các dự án gia công phần mềm, lập trình Web thương mại điện tử, lập trình đa phương tiện: lập trình di động, trò chơi, ...",
+    "viTriViecLam": [
+      "Chuyên viên biên tập, quản trị báo điện tử, các kênh truyền thông số, tiếp thị số",
+      "Kỹ sư, lập trình phần mềm; phát triển các ứng dụng Web, ứng dụng trên thiết bị di động",
+      "Chuyên viên thiết kế, tư vấn quảng cáo, thiết kế bao bì, nhãn hiệu sản phẩm, thiết kế logo, làm phim quảng cáo, … hoặc một hệ thống nhận dạng thương hiệu (tại các công ty quảng cáo, PR)",
+      "Chuyên viên/Giám đốc tổ chức sự kiện, chuyên viên truyền thông trực tiếp và trực tuyến",
+      "Giám đốc sản xuất, biên tập viên truyền hình, phóng viên (truyền thông đa phương tiện); xử lý âm thanh, hình ảnh trước khi phát sóng, thiết kế các nội dung truyền hình (tại các công ty truyền hình, hãng sản xuất phim)",
+      "Giảng viên dạy tại các trường đại học, cao đẳng, trung cấp, … đào tạo về Truyền thông đa phương tiện"
+    ],
+    "noiLamViec": [
+      "Các công ty truyền thông, tư vấn thiết kế quảng cáo và tổ chức sự kiện",
+      "Các công ty cung cấp nội dung số: đài truyền hình, báo điện tử, các kênh truyền thông số, đào tạo trực tuyến",
+      "Các công ty tư vấn, thiết kế và phát triển sản phẩm phần mềm",
+      "Các cơ quan nhà nước có liên quan đến lĩnh vực truyền thông số",
+      "Các Trường đại học, cao đẳng, trung cấp, … đào tạo về truyền thông số và tiếp thị số"
+    ],
+    "file": "TruyenThongDaPhuongTien.vue"
+  }
+]

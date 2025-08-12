@@ -4,11 +4,9 @@ import Breadcrumb from './Breadcrumb.vue'
 import NotificationBell from './NotificationBell.vue'
 import UserMenu from './UserMenu.vue'
 
-import { useI18n } from 'vue-i18n'
 import { useRoute } from 'vue-router'
 import { computed } from 'vue'
 
-const { locale } = useI18n()
 const route = useRoute()
 
 // Cập nhật breadcrumbItems và title động dựa trên route
@@ -68,10 +66,6 @@ const pageTitle = computed(() => {
 
       <!-- Phải: Các action -->
       <div class="navbar-right">
-        <button class="lang-button" @click="$emit('toggle-language')">
-          {{ locale === 'vn' ? 'VN' : 'EN' }}
-        </button>
-
         <NotificationBell />
         <UserMenu @logout="$emit('logout')" />
       </div>
@@ -110,25 +104,5 @@ const pageTitle = computed(() => {
   display: flex;
   align-items: center;
   gap: 16px;
-}
-
-.lang-button {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  background-color: #f9fafb;
-  border: 1px solid #e5e7eb;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 600;
-  color: #374151;
-  cursor: pointer;
-  transition: background-color 0.3s, box-shadow 0.3s;
-}
-
-.lang-button:hover {
-  background-color: #f3f4f6;
-  box-shadow: 0 0 0 3px rgba(34, 197, 94, 0.5); /* ring green-500 */
 }
 </style>

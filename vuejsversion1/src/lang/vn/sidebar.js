@@ -51,10 +51,5 @@ export default [
         link: '/giai-doan-tuyen-sinh'
       }
     ]
-  },
-  {
-    name: 'Thống kê',
-    icon: 'table',
-    link: '/thong-ke'
   }
 ]
