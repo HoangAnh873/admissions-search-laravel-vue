@@ -229,6 +229,7 @@ class SmartMatcher:
             r'từ\s*([\d.]+)\s*đến\s*([\d.]+)',
             r'trên\s*([\d.]+)',
             r'dưới\s*([\d.]+)',
+            r'dưới\s*điểm\s*([\d.]+)',  # Thêm pattern "dưới điểm X"
             r'>\s*([\d.]+)',
             r'<\s*([\d.]+)',
         ]
@@ -414,7 +415,9 @@ class ImprovedChatbot:
             
             # Thông tin điểm chuẩn gần nhất
             if ng.get('diem_chuan'):
-                latest_score = ng['diem_chuan'][-1]
+                # Sắp xếp theo năm giảm dần để lấy năm mới nhất
+                sorted_diem_chuan = sorted(ng['diem_chuan'], key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0, reverse=True)
+                latest_score = sorted_diem_chuan[0]
                 components.append(f"Điểm chuẩn gần nhất: {latest_score.get('diem', '')} năm {latest_score.get('nam', '')}")
             
             text = ". ".join(components)
@@ -537,7 +540,14 @@ class ImprovedChatbot:
                 if not has_year_data:
                     continue
             if (min_score is not None or max_score is not None) and ng.get('diem_chuan'):
-                diem_chuan_nam = [dc for dc in ng['diem_chuan'] if not year or str(dc.get('nam')) == year]
+                if year:
+                    diem_chuan_nam = [dc for dc in ng['diem_chuan'] if str(dc.get('nam')) == year]
+                else:
+                    # Nếu không có year, lấy năm mới nhất có dữ liệu
+                    sorted_diem_chuan = sorted(ng['diem_chuan'], key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0, reverse=True)
+                    latest_year = sorted_diem_chuan[0].get('nam')
+                    diem_chuan_nam = [dc for dc in ng['diem_chuan'] if str(dc.get('nam')) == str(latest_year)]
+                
                 if not diem_chuan_nam:
                     continue
                 
@@ -617,7 +627,9 @@ class ImprovedChatbot:
             return result
         # Nếu không có year, phân tích xu hướng nhiều năm
         year_scores = {}
-        for dc in ng['diem_chuan']:
+        # Sắp xếp theo năm để đảm bảo thứ tự chính xác
+        sorted_diem_chuan = sorted(ng['diem_chuan'], key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0)
+        for dc in sorted_diem_chuan:
             y = dc.get('nam')
             score = dc.get('diem')
             if y and score:
@@ -737,7 +749,7 @@ class ImprovedChatbot:
         Quy tắc:
         - Nếu có cả year và method: chỉ trả về đúng phương thức trong năm đó
         - Nếu chỉ có year: trả về tất cả phương thức của năm đó (tối đa 2-3 dòng ngắn gọn)
-        - Nếu không có year: trả về ngắn gọn 1-3 mục gần nhất
+        - Nếu không có year: tự động lấy năm mới nhất có dữ liệu
         """
         if not ng.get('diem_chuan'):
             return f"📚 {ng.get('nganh')}: Chưa có dữ liệu điểm chuẩn."
@@ -748,21 +760,28 @@ class ImprovedChatbot:
             scores = [s for s in scores if str(s.get('nam')) == year]
             if not scores:
                 return f"📚 {ng.get('nganh')}: Không có điểm chuẩn năm {year}."
+        else:
+            # Nếu không có year, tự động lấy năm mới nhất có dữ liệu
+            if scores:
+                # Sắp xếp theo năm giảm dần để lấy năm mới nhất
+                scores = sorted(scores, key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0, reverse=True)
+                latest_year = scores[0].get('nam')
+                # Lọc chỉ lấy dữ liệu của năm mới nhất
+                scores = [s for s in scores if str(s.get('nam')) == str(latest_year)]
+                year = str(latest_year)  # Cập nhật year để hiển thị
+        
         # Lọc theo phương thức nếu có
         if method:
             filtered = SmartMatcher.filter_by_admission_method(scores, method)
             if filtered:
                 # Ưu tiên 1 kết quả khớp
                 s = filtered[0]
-                return f"📚 **{ng.get('nganh')}** {f'năm {year} ' if year else ''}({s.get('phuong_thuc','')}): {s.get('diem','N/A')} điểm"
+                return f"📚 **{ng.get('nganh')}** năm {year} ({s.get('phuong_thuc','')}): {s.get('diem','N/A')} điểm"
             else:
-                return f"📚 {ng.get('nganh')}: Không có điểm chuẩn{f' năm {year}' if year else ''} cho phương thức {method}."
+                return f"📚 {ng.get('nganh')}: Không có điểm chuẩn năm {year} cho phương thức {method}."
         
-        # Không chỉ định phương thức → trả về ngắn gọn theo năm (nếu có) với 2 phương thức tiêu biểu
-        result = f"📚 **{ng.get('nganh')}**"
-        if year:
-            result += f" năm {year}"
-        result += ":\n"
+        # Không chỉ định phương thức → trả về ngắn gọn theo năm với 2 phương thức tiêu biểu
+        result = f"📚 **{ng.get('nganh')} năm {year}:**\n"
         # Sắp xếp để ưu tiên THPT rồi học bạ
         order = ["điểm thi", "thpt", "tốt nghiệp", "học bạ"]
         def weight(item: Dict) -> int:
@@ -801,7 +820,8 @@ class ImprovedChatbot:
                 return f"📝 {ng.get('nganh')}: Không có điểm sàn năm {year}."
         
         result = f"📝 **Điểm sàn {ng.get('nganh')}**\n\n"
-        for d in sorted(diem_san_data, key=lambda x: x.get('nam', 0), reverse=True):
+        # Sắp xếp theo năm giảm dần để hiển thị năm mới nhất trước
+        for d in sorted(diem_san_data, key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0, reverse=True):
             result += f"   • Năm {d.get('nam', 'N/A')}: {d.get('diem_san', 'N/A')} điểm\n"
         
         return result
@@ -825,6 +845,13 @@ class ImprovedChatbot:
                 diem_list = [d for d in diem_list if str(d.get('nam')) == str(year)]
                 if not diem_list:
                     continue
+            else:
+                # Nếu không có year, lấy năm mới nhất có dữ liệu
+                if diem_list:
+                    # Sắp xếp theo năm giảm dần để lấy năm mới nhất
+                    sorted_diem_list = sorted(diem_list, key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0, reverse=True)
+                    latest_year = sorted_diem_list[0].get('nam')
+                    diem_list = [d for d in diem_list if str(d.get('nam')) == str(latest_year)]
             if method:
                 diem_list = SmartMatcher.filter_by_admission_method(diem_list, method)
                 if not diem_list:
@@ -866,7 +893,9 @@ class ImprovedChatbot:
             # Lấy năm gần nhất nếu có điểm chuẩn
             nam_gan_nhat = None
             if ng.get('diem_chuan'):
-                nam_gan_nhat = ng['diem_chuan'][-1].get('nam')
+                # Sắp xếp theo năm giảm dần để lấy năm mới nhất
+                sorted_diem_chuan = sorted(ng['diem_chuan'], key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0, reverse=True)
+                nam_gan_nhat = sorted_diem_chuan[0].get('nam')
 
             if nam_gan_nhat:
                 return f"🎯 **{ng.get('nganh')}**: {chi_tieu} sinh viên (năm {nam_gan_nhat})"
@@ -960,7 +989,9 @@ class ImprovedChatbot:
             result += f" • Chỉ tiêu: {ng.get('chi_tieu')} sinh viên\n"
 
         if ng.get('diem_chuan'):
-            latest = ng['diem_chuan'][-1]
+            # Sắp xếp theo năm giảm dần để lấy năm mới nhất
+            sorted_diem_chuan = sorted(ng['diem_chuan'], key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0, reverse=True)
+            latest = sorted_diem_chuan[0]
             result += f"\n🏆 **Tuyển sinh:**\n"
             result += f" • Điểm chuẩn gần nhất: {latest.get('diem', 'N/A')} điểm\n"
             result += f" • Năm: {latest.get('nam', 'N/A')}\n"
@@ -1256,8 +1287,32 @@ THÔNG TIN CÁC NGÀNH:
         year = SmartMatcher.extract_year(question)
         min_score, max_score = SmartMatcher.extract_score_range(question)
         
+        # Debug: in ra thông tin để kiểm tra
+        ColoredOutput.print_info(f"Debug - Year: {year}, Min score: {min_score}, Max score: {max_score}")
+        
         # 0.1. Xử lý câu hỏi về ngành thuộc khoa X
         q_lower = question.lower()
+        
+        # Xử lý câu hỏi "Ngành X thuộc khoa nào?"
+        if "thuộc khoa nào" in q_lower or "khoa nào" in q_lower:
+            # Tìm mã ngành trong câu hỏi
+            code = SmartMatcher.extract_code(question)
+            if code:
+                for ng in self.nganhs:
+                    ma = str(ng.get('ma_nganh') or ng.get('maNganh') or "").strip()
+                    if ma == code:
+                        nganh_name = ng.get('nganh', 'N/A')
+                        khoa_info = ng.get('khoa')
+                        if khoa_info:
+                            if isinstance(khoa_info, dict):
+                                khoa_name = khoa_info.get('tenKhoa', khoa_info)
+                            else:
+                                khoa_name = khoa_info
+                            return f"🏫 **Ngành {nganh_name} ({code}) thuộc khoa: {khoa_name}**"
+                        else:
+                            return f"🏫 **Ngành {nganh_name} ({code})**: Chưa có thông tin về khoa"
+                return f"❌ Không tìm thấy ngành có mã {code}"
+        
         if any(kw in q_lower for kw in ["thuộc khoa", "ngành nào thuộc khoa", "khoa nào có ngành"]):
             # Tìm tên khoa trong câu hỏi
             khoa_keywords = ["công nghệ thông tin", "cntt", "y khoa", "y tế", "kinh tế", "luật", "sư phạm", "nông nghiệp"]
@@ -1283,18 +1338,24 @@ THÔNG TIN CÁC NGÀNH:
                 
                 if matching_nganhs:
                     result = f"🏫 **Ngành thuộc khoa {target_khoa.title()}:**\n\n"
-                    for ng in matching_nganhs[:6]:  # Giới hạn 6 ngành
+                    # Liệt kê tất cả ngành thay vì giới hạn
+                    for ng in matching_nganhs:
                         nganh_name = ng.get('nganh', 'N/A')
                         ma_nganh = ng.get('ma_nganh', 'N/A')
                         result += f"🎓 **{nganh_name}** ({ma_nganh})\n"
-                    if len(matching_nganhs) > 6:
-                        result += f"\n... và {len(matching_nganhs) - 6} ngành khác"
                     return result
                 else:
                     return f"❌ Không tìm thấy ngành nào thuộc khoa {target_khoa.title()}"
         
-
-            # Tìm tất cả ngành có điểm chuẩn dưới max_score
+        # 0.2. Xử lý câu hỏi về ngành có điểm chuẩn dưới X
+        if max_score is not None:  # Có điều kiện "dưới X điểm"
+            # Debug: in ra thông tin để kiểm tra
+            ColoredOutput.print_info(f"Tìm ngành có điểm chuẩn dưới {max_score} điểm, năm: {year}")
+            
+            # Trích xuất phương thức xét tuyển từ câu hỏi
+            admission_method = SmartMatcher.extract_admission_method(question)
+            ColoredOutput.print_info(f"Phương thức xét tuyển: {admission_method}")
+            
             matching_nganhs = []
             for ng in self.nganhs:
                 if not ng.get('diem_chuan'):
@@ -1303,9 +1364,22 @@ THÔNG TIN CÁC NGÀNH:
                 diem_chuan_nam = ng['diem_chuan']
                 if year:
                     diem_chuan_nam = [dc for dc in diem_chuan_nam if str(dc.get('nam')) == year]
+                else:
+                    # Nếu không có year, lấy năm mới nhất có dữ liệu
+                    if diem_chuan_nam:
+                        # Sắp xếp theo năm giảm dần để lấy năm mới nhất
+                        sorted_diem_chuan = sorted(diem_chuan_nam, key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0, reverse=True)
+                        latest_year = sorted_diem_chuan[0].get('nam')
+                        diem_chuan_nam = [dc for dc in diem_chuan_nam if str(dc.get('nam')) == str(latest_year)]
                 
                 if not diem_chuan_nam:
                     continue
+                
+                # Lọc theo phương thức xét tuyển nếu có
+                if admission_method:
+                    diem_chuan_nam = SmartMatcher.filter_by_admission_method(diem_chuan_nam, admission_method)
+                    if not diem_chuan_nam:
+                        continue
                 
                 # Kiểm tra xem có điểm nào dưới max_score không
                 for dc in diem_chuan_nam:
@@ -1325,22 +1399,31 @@ THÔNG TIN CÁC NGÀNH:
                 # Sắp xếp theo điểm từ thấp đến cao
                 matching_nganhs.sort(key=lambda x: x['score'])
                 
-                result = f"📊 **Ngành có điểm chuẩn dưới {max_score} điểm"
-                if year:
-                    result += f" năm {year}"
-                result += ":**\n\n"
+                # Xác định năm để hiển thị
+                display_year = year
+                if not display_year and matching_nganhs:
+                    # Lấy năm từ kết quả đầu tiên
+                    display_year = matching_nganhs[0]['year']
                 
-                for ng in matching_nganhs[:8]:  # Giới hạn 8 ngành
-                    result += f"🎓 **{ng['nganh']}**: {ng['score']:.1f} điểm\n"
+                # Tạo tiêu đề với phương thức xét tuyển nếu có
+                if admission_method:
+                    result = f"📊 **Ngành có điểm chuẩn dưới {max_score} điểm năm {display_year} ({admission_method}):**\n\n"
+                else:
+                    result = f"📊 **Ngành có điểm chuẩn dưới {max_score} điểm năm {display_year}:**\n\n"
                 
-                if len(matching_nganhs) > 8:
-                    result += f"\n... và {len(matching_nganhs) - 8} ngành khác"
+                # Liệt kê tất cả ngành thay vì giới hạn
+                for ng in matching_nganhs:
+                    method_display = f" ({ng['method']})" if ng['method'] and ng['method'] != 'Không rõ' else ""
+                    result += f"🎓 **{ng['nganh']}**: {ng['score']:.2f} điểm{method_display}\n"
                 
                 return result
             else:
-                return f"❌ Không tìm thấy ngành nào có điểm chuẩn dưới {max_score} điểm"
+                # Xác định năm để hiển thị
+                display_year = year if year else "mới nhất"
+                method_text = f" theo phương thức {admission_method}" if admission_method else ""
+                return f"❌ Không tìm thấy ngành nào có điểm chuẩn dưới {max_score} điểm năm {display_year}{method_text}"
         
-        # 0.2. Xử lý câu hỏi về ngành có điểm chuẩn trên X
+        # 0.3. Xử lý câu hỏi về ngành có điểm chuẩn trên X
         if min_score is not None:  # Có điều kiện "trên X điểm"
             admission_method = SmartMatcher.extract_admission_method(question)         
 
@@ -1353,6 +1436,13 @@ THÔNG TIN CÁC NGÀNH:
                 diem_chuan_nam = ng['diem_chuan']
                 if year:
                     diem_chuan_nam = [dc for dc in diem_chuan_nam if str(dc.get('nam')) == year]
+                else:
+                    # Nếu không có year, lấy năm mới nhất có dữ liệu
+                    if diem_chuan_nam:
+                        # Sắp xếp theo năm giảm dần để lấy năm mới nhất
+                        sorted_diem_chuan = sorted(diem_chuan_nam, key=lambda x: int(x.get('nam', 0)) if x.get('nam') else 0, reverse=True)
+                        latest_year = sorted_diem_chuan[0].get('nam')
+                        diem_chuan_nam = [dc for dc in diem_chuan_nam if str(dc.get('nam')) == str(latest_year)]
                 
                 if not diem_chuan_nam:
                     continue
@@ -1381,23 +1471,28 @@ THÔNG TIN CÁC NGÀNH:
                 # Sắp xếp theo điểm từ cao đến thấp
                 matching_nganhs.sort(key=lambda x: x['score'], reverse=True)
                 
-                result = f"📊 **Ngành có điểm chuẩn trên {min_score} điểm"
-                if year:
-                    result += f" năm {year}"
+                # Xác định năm để hiển thị
+                display_year = year
+                if not display_year and matching_nganhs:
+                    # Lấy năm từ kết quả đầu tiên
+                    display_year = matching_nganhs[0]['year']
+                
+                result = f"📊 **Ngành có điểm chuẩn trên {min_score} điểm năm {display_year}"
                 if admission_method:
                     result += f" ({admission_method})"
                 result += ":**\n\n"
                 
-                for ng in matching_nganhs[:8]:  # Giới hạn 8 ngành
-                    result += f"🎓 **{ng['nganh']}**: {ng['score']:.1f} điểm\n"
-                
-                if len(matching_nganhs) > 8:
-                    result += f"\n... và {len(matching_nganhs) - 8} ngành khác"
+                # Liệt kê tất cả ngành thay vì giới hạn
+                for ng in matching_nganhs:
+                    method_display = f" ({ng['method']})" if ng['method'] and ng['method'] != 'Không rõ' else ""
+                    result += f"🎓 **{ng['nganh']}**: {ng['score']:.2f} điểm{method_display}\n"
                 
                 return result
             else:
+                # Xác định năm để hiển thị
+                display_year = year if year else "mới nhất"
                 method_text = f" theo phương thức {admission_method}" if admission_method else ""
-                return f"❌ Không tìm thấy ngành nào có điểm chuẩn trên {min_score} điểm{method_text}"
+                return f"❌ Không tìm thấy ngành nào có điểm chuẩn trên {min_score} điểm năm {display_year}{method_text}"
         
         # 1. Ưu tiên intent đặc biệt nếu có context ngành
         if self.is_reference_to_previous_major(question) and self.memory.last_nganh_context:
@@ -1481,7 +1576,7 @@ THÔNG TIN CÁC NGÀNH:
             if self.is_quota_question(question):
                 self.memory.last_nganh_context = best_nganh
                 return self._get_quota_info(best_nganh)
-            ColoredOutput.print_info(f"Tìm thấy ngành: {best_nganh.get('nganh')} (score: {score:.3f})")
+            ColoredOutput.print_info(f"Tìm thấy ngành: {best_nganh.get('nganh')} (score: {score:.2f})")
             self.memory.last_nganh_context = best_nganh
             return self.generate_smart_answer(question, best_nganh, score)
         # 🧠 Fallback: dùng LLM trả lời nếu vẫn chưa rõ
@@ -1590,3 +1685,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
