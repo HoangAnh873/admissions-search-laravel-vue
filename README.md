@@ -28,10 +28,9 @@ Hệ thống tích hợp **chatbot AI** để tư vấn tuyển sinh tự độn
 ## ⚙️ Cách cài đặt
 ```bash
 # Clone project
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/HoangAnh873/admissions-search-laravel-vue.git
 
 # Cài đặt backend (Laravel)
-cd backend
 composer install
 cp .env.example .env
 php artisan key:generate
@@ -39,11 +38,11 @@ php artisan migrate --seed
 php artisan serve
 
 # Cài đặt frontend (Vue.js)
-cd frontend
+cd vuejsversion1
 npm install
 npm run dev
 
 # Cài đặt chatbot (Python)
-cd chatbot
+cd chatbot_ai
 pip install -r requirements.txt
-python main.py
+python mapi_server.py
