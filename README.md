@@ -45,4 +45,4 @@ npm run dev
 # Cài đặt chatbot (Python)
 cd chatbot_ai
 pip install -r requirements.txt
-python mapi_server.py
+python api_server.py
